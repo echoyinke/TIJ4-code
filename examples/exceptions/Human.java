@@ -1,4 +1,5 @@
 //: exceptions/Human.java
+package exceptions; /* Added by Eclipse.py */
 // Catching exception hierarchies.
 
 class Annoyance extends Exception {}

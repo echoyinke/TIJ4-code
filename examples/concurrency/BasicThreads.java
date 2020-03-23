@@ -1,4 +1,5 @@
 //: concurrency/BasicThreads.java
+package concurrency; /* Added by Eclipse.py */
 // The most basic use of the Thread class.
 
 public class BasicThreads {

@@ -1,4 +1,5 @@
 //: gui/TabbedPane1.java
+package gui; /* Added by Eclipse.py */
 // Demonstrates the Tabbed Pane.
 import javax.swing.*;
 import javax.swing.event.*;

@@ -1,4 +1,5 @@
 //: arrays/ComparatorTest.java
+package arrays; /* Added by Eclipse.py */
 // Implementing a Comparator for a class.
 import java.util.*;
 import net.mindview.util.*;

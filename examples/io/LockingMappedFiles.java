@@ -1,4 +1,5 @@
 //: io/LockingMappedFiles.java
+package io; /* Added by Eclipse.py */
 // Locking portions of a mapped file.
 // {RunByHand}
 import java.nio.*;

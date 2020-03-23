@@ -1,4 +1,5 @@
 //: generics/GenericVarargs.java
+package generics; /* Added by Eclipse.py */
 import java.util.*;
 
 public class GenericVarargs {

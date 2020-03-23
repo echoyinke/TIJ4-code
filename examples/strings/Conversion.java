@@ -1,4 +1,5 @@
 //: strings/Conversion.java
+package strings; /* Added by Eclipse.py */
 import java.math.*;
 import java.util.*;
 

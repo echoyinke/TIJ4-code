@@ -1,4 +1,5 @@
 //: generics/Mixins.java
+package generics; /* Added by Eclipse.py */
 import java.util.*;
 
 interface TimeStamped { long getStamp(); }

@@ -1,4 +1,5 @@
 //: interfaces/Games.java
+package interfaces; /* Added by Eclipse.py */
 // A Game framework using Factory Methods.
 import static net.mindview.util.Print.*;
 

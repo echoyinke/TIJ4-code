@@ -1,4 +1,5 @@
 //: exceptions/OnOffSwitch.java
+package exceptions; /* Added by Eclipse.py */
 // Why use finally?
 
 public class OnOffSwitch {

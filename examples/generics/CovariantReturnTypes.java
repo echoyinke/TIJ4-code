@@ -1,4 +1,5 @@
 //: generics/CovariantReturnTypes.java
+package generics; /* Added by Eclipse.py */
 
 class Base {}
 class Derived extends Base {}

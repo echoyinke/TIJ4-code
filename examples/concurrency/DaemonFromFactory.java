@@ -1,4 +1,5 @@
 //: concurrency/DaemonFromFactory.java
+package concurrency; /* Added by Eclipse.py */
 // Using a Thread Factory to create daemons.
 import java.util.concurrent.*;
 import net.mindview.util.*;

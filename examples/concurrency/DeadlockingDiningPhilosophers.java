@@ -1,4 +1,5 @@
 //: concurrency/DeadlockingDiningPhilosophers.java
+package concurrency; /* Added by Eclipse.py */
 // Demonstrates how deadlock can be hidden in a program.
 // {Args: 0 5 timeout}
 import java.util.concurrent.*;

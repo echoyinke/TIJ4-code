@@ -1,4 +1,5 @@
 //: innerclasses/ClassInInterface.java
+package innerclasses; /* Added by Eclipse.py */
 // {main: ClassInInterface$Test}
 
 public interface ClassInInterface {

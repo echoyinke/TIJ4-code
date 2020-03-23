@@ -1,4 +1,5 @@
 //: typeinfo/SimpleDynamicProxy.java
+package typeinfo; /* Added by Eclipse.py */
 import java.lang.reflect.*;
 
 class DynamicProxyHandler implements InvocationHandler {

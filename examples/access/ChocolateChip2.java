@@ -1,4 +1,5 @@
 //: access/ChocolateChip2.java
+package access; /* Added by Eclipse.py */
 import access.cookie2.*;
 
 public class ChocolateChip2 extends Cookie {

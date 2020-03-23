@@ -1,4 +1,5 @@
 //: exceptions/TurnOffChecking.java
+package exceptions; /* Added by Eclipse.py */
 // "Turning off" Checked exceptions.
 import java.io.*;
 import static net.mindview.util.Print.*;

@@ -1,4 +1,5 @@
 //: concurrency/NIOInterruption.java
+package concurrency; /* Added by Eclipse.py */
 // Interrupting a blocked NIO channel.
 import java.net.*;
 import java.nio.*;

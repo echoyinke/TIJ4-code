@@ -1,4 +1,5 @@
 //: swt/DisplayEnvironment.java
+package swt; /* Added by Eclipse.py */
 import swt.util.*;
 import org.eclipse.swt.*;
 import org.eclipse.swt.widgets.*;

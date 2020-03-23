@@ -1,4 +1,5 @@
 //: initialization/InitialValues.java
+package initialization; /* Added by Eclipse.py */
 // Shows default initial values.
 import static net.mindview.util.Print.*;
 

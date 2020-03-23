@@ -1,4 +1,5 @@
 //: generics/InheritBounds.java
+package generics; /* Added by Eclipse.py */
 
 class HoldItem<T> {
   T item;

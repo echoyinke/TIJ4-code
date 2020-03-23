@@ -1,4 +1,5 @@
 //: concurrency/Joining.java
+package concurrency; /* Added by Eclipse.py */
 // Understanding join().
 import static net.mindview.util.Print.*;
 

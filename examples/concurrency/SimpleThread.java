@@ -1,4 +1,5 @@
 //: concurrency/SimpleThread.java
+package concurrency; /* Added by Eclipse.py */
 // Inheriting directly from the Thread class.
 
 public class SimpleThread extends Thread {

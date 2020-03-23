@@ -1,4 +1,5 @@
 //: innerclasses/InheritInner.java
+package innerclasses; /* Added by Eclipse.py */
 // Inheriting an inner class.
 
 class WithInner {

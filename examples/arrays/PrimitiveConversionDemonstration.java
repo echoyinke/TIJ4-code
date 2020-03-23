@@ -1,4 +1,5 @@
 //: arrays/PrimitiveConversionDemonstration.java
+package arrays; /* Added by Eclipse.py */
 import java.util.*;
 import net.mindview.util.*;
 

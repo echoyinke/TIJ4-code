@@ -1,4 +1,5 @@
 //: gui/HTMLButton.java
+package gui; /* Added by Eclipse.py */
 // Putting HTML text on Swing components.
 import javax.swing.*;
 import java.awt.*;

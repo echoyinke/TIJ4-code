@@ -1,4 +1,5 @@
 //: typeinfo/Robot.java
+package typeinfo; /* Added by Eclipse.py */
 import java.util.*;
 import net.mindview.util.*;
 

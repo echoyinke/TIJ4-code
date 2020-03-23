@@ -1,4 +1,5 @@
 //: generics/GenericCast.java
+package generics; /* Added by Eclipse.py */
 
 class FixedSizeStack<T> {
   private int index = 0;

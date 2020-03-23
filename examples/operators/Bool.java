@@ -1,4 +1,5 @@
 //: operators/Bool.java
+package operators; /* Added by Eclipse.py */
 // Relational and logical operators.
 import java.util.*;
 import static net.mindview.util.Print.*;

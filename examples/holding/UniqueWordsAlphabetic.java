@@ -1,4 +1,5 @@
 //: holding/UniqueWordsAlphabetic.java
+package holding; /* Added by Eclipse.py */
 // Producing an alphabetic listing.
 import java.util.*;
 import net.mindview.util.*;

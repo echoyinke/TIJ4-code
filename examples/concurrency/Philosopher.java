@@ -1,4 +1,5 @@
 //: concurrency/Philosopher.java
+package concurrency; /* Added by Eclipse.py */
 // A dining philosopher
 import java.util.concurrent.*;
 import java.util.*;

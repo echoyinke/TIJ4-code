@@ -1,4 +1,5 @@
 //: concurrency/SerialNumberChecker.java
+package concurrency; /* Added by Eclipse.py */
 // Operations that may seem safe are not,
 // when threads are present.
 // {Args: 4}

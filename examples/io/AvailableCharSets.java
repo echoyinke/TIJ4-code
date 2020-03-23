@@ -1,4 +1,5 @@
 //: io/AvailableCharSets.java
+package io; /* Added by Eclipse.py */
 // Displays Charsets and aliases
 import java.nio.charset.*;
 import java.util.*;

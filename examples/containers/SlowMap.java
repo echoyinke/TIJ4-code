@@ -1,4 +1,5 @@
 //: containers/SlowMap.java
+package containers; /* Added by Eclipse.py */
 // A Map implemented with ArrayLists.
 import java.util.*;
 import net.mindview.util.*;

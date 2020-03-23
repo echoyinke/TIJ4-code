@@ -1,4 +1,5 @@
 //: containers/Synchronization.java
+package containers; /* Added by Eclipse.py */
 // Using the Collections.synchronized methods.
 import java.util.*;
 

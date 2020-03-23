@@ -1,4 +1,5 @@
 //: gui/InterruptableLongRunningCallable.java
+package gui; /* Added by Eclipse.py */
 // Using Callables for long-running tasks.
 import javax.swing.*;
 import java.awt.*;

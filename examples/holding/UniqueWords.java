@@ -1,4 +1,5 @@
 //: holding/UniqueWords.java
+package holding; /* Added by Eclipse.py */
 import java.util.*;
 import net.mindview.util.*;
 

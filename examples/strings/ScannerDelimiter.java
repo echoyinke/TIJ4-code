@@ -1,4 +1,5 @@
 //: strings/ScannerDelimiter.java
+package strings; /* Added by Eclipse.py */
 import java.util.*;
 
 public class ScannerDelimiter {

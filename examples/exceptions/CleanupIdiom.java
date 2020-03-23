@@ -1,4 +1,5 @@
 //: exceptions/CleanupIdiom.java
+package exceptions; /* Added by Eclipse.py */
 // Each disposable object must be followed by a try-finally
 
 class NeedsCleanup { // Construction can't fail

@@ -1,4 +1,5 @@
 //: initialization/OverloadingVarargs2.java
+package initialization; /* Added by Eclipse.py */
 // {CompileTimeError} (Won't compile)
 
 public class OverloadingVarargs2 {

@@ -1,4 +1,5 @@
 //: strings/BetterRead.java
+package strings; /* Added by Eclipse.py */
 import java.util.*;
 
 public class BetterRead {

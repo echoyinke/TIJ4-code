@@ -1,4 +1,5 @@
 //: control/ForEachString.java
+package control; /* Added by Eclipse.py */
 
 public class ForEachString {
   public static void main(String[] args) {

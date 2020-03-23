@@ -1,4 +1,5 @@
 //: holding/AddingGroups.java
+package holding; /* Added by Eclipse.py */
 // Adding groups of elements to Collection objects.
 import java.util.*;
 

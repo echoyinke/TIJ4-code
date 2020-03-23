@@ -1,4 +1,5 @@
 //: initialization/BananaPeel.java
+package initialization; /* Added by Eclipse.py */
 
 class Banana { void peel(int i) { /* ... */ } }
 

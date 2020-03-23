@@ -1,4 +1,5 @@
 //: interfaces/HorrorShow.java
+package interfaces; /* Added by Eclipse.py */
 // Extending an interface with inheritance.
 
 interface Monster {

@@ -1,4 +1,5 @@
 //: concurrency/ThreadLocalVariableHolder.java
+package concurrency; /* Added by Eclipse.py */
 // Automatically giving each thread its own storage.
 import java.util.concurrent.*;
 import java.util.*;

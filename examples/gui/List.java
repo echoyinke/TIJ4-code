@@ -1,4 +1,5 @@
 //: gui/List.java
+package gui; /* Added by Eclipse.py */
 import javax.swing.*;
 import javax.swing.border.*;
 import javax.swing.event.*;

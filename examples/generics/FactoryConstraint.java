@@ -1,4 +1,5 @@
 //: generics/FactoryConstraint.java
+package generics; /* Added by Eclipse.py */
 
 interface FactoryI<T> {
   T create();

@@ -1,4 +1,5 @@
 //: exceptions/DynamicFields.java
+package exceptions; /* Added by Eclipse.py */
 // A Class that dynamically adds fields to itself.
 // Demonstrates exception chaining.
 import static net.mindview.util.Print.*;

@@ -1,4 +1,5 @@
 //: typeinfo/PetCount2.java
+package typeinfo; /* Added by Eclipse.py */
 import typeinfo.pets.*;
 
 public class PetCount2 {

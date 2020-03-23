@@ -1,4 +1,5 @@
 //: io/GetChannel.java
+package io; /* Added by Eclipse.py */
 // Getting channels from streams
 import java.nio.*;
 import java.nio.channels.*;

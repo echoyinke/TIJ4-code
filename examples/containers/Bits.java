@@ -1,4 +1,5 @@
 //: containers/Bits.java
+package containers; /* Added by Eclipse.py */
 // Demonstration of BitSet.
 import java.util.*;
 import static net.mindview.util.Print.*;

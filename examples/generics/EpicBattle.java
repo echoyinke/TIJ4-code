@@ -1,4 +1,5 @@
 //: generics/EpicBattle.java
+package generics; /* Added by Eclipse.py */
 // Demonstrating bounds in Java generics.
 import java.util.*;
 

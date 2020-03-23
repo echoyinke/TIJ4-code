@@ -1,4 +1,5 @@
 //: innerclasses/TestParcel.java
+package innerclasses; /* Added by Eclipse.py */
 
 class Parcel4 {
   private class PContents implements Contents {

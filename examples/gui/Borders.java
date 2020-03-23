@@ -1,4 +1,5 @@
 //: gui/Borders.java
+package gui; /* Added by Eclipse.py */
 // Different Swing borders.
 import javax.swing.*;
 import javax.swing.border.*;

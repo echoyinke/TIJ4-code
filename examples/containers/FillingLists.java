@@ -1,4 +1,5 @@
 //: containers/FillingLists.java
+package containers; /* Added by Eclipse.py */
 // The Collections.fill() & Collections.nCopies() methods.
 import java.util.*;
 

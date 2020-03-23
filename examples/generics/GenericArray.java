@@ -1,4 +1,5 @@
 //: generics/GenericArray.java
+package generics; /* Added by Eclipse.py */
 
 public class GenericArray<T> {
   private T[] array;

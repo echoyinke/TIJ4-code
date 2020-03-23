@@ -1,4 +1,5 @@
 //: io/Endians.java
+package io; /* Added by Eclipse.py */
 // Endian differences and data storage.
 import java.nio.*;
 import java.util.*;

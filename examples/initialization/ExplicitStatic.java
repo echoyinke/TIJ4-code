@@ -1,4 +1,5 @@
 //: initialization/ExplicitStatic.java
+package initialization; /* Added by Eclipse.py */
 // Explicit static initialization with the "static" clause.
 import static net.mindview.util.Print.*;
 

@@ -1,4 +1,5 @@
 //: typeinfo/ClassInitialization.java
+package typeinfo; /* Added by Eclipse.py */
 import java.util.*;
 
 class Initable {

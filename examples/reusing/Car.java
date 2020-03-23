@@ -1,4 +1,5 @@
 //: reusing/Car.java
+package reusing; /* Added by Eclipse.py */
 // Composition with public objects.
 
 class Engine {

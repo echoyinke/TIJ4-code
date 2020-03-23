@@ -1,4 +1,5 @@
 //: innerclasses/Factories.java
+package innerclasses; /* Added by Eclipse.py */
 import static net.mindview.util.Print.*;
 
 interface Service {

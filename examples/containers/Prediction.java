@@ -1,4 +1,5 @@
 //: containers/Prediction.java
+package containers; /* Added by Eclipse.py */
 // Predicting the weather with groundhogs.
 import java.util.*;
 

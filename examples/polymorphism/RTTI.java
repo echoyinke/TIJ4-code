@@ -1,4 +1,5 @@
 //: polymorphism/RTTI.java
+package polymorphism; /* Added by Eclipse.py */
 // Downcasting & Runtime type information (RTTI).
 // {ThrowsException}
 

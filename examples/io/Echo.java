@@ -1,4 +1,5 @@
 //: io/Echo.java
+package io; /* Added by Eclipse.py */
 // How to read from standard input.
 // {RunByHand}
 import java.io.*;

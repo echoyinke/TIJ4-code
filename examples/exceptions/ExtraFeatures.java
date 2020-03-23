@@ -1,4 +1,5 @@
 //: exceptions/ExtraFeatures.java
+package exceptions; /* Added by Eclipse.py */
 // Further embellishment of exception classes.
 import static net.mindview.util.Print.*;
 

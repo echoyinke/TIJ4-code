@@ -1,4 +1,5 @@
 //: generics/ErasureAndInheritance.java
+package generics; /* Added by Eclipse.py */
 
 class GenericBase<T> {
   private T element;

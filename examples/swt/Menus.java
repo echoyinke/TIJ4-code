@@ -1,4 +1,5 @@
 //: swt/Menus.java
+package swt; /* Added by Eclipse.py */
 // Fun with menus.
 import swt.util.*;
 import org.eclipse.swt.*;

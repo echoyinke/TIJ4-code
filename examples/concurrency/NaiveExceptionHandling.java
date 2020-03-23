@@ -1,4 +1,5 @@
 //: concurrency/NaiveExceptionHandling.java
+package concurrency; /* Added by Eclipse.py */
 // {ThrowsException}
 import java.util.concurrent.*;
 

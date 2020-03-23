@@ -1,4 +1,5 @@
 //: reusing/FinalData.java
+package reusing; /* Added by Eclipse.py */
 // The effect of final on fields.
 import java.util.*;
 import static net.mindview.util.Print.*;

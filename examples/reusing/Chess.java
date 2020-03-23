@@ -1,4 +1,5 @@
 //: reusing/Chess.java
+package reusing; /* Added by Eclipse.py */
 // Inheritance, constructors and arguments.
 import static net.mindview.util.Print.*;
 

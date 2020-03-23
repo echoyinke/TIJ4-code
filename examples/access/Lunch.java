@@ -1,4 +1,5 @@
 //: access/Lunch.java
+package access; /* Added by Eclipse.py */
 // Demonstrates class access specifiers. Make a class
 // effectively private with private constructors:
 

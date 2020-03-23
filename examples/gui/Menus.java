@@ -1,4 +1,5 @@
 //: gui/Menus.java
+package gui; /* Added by Eclipse.py */
 // Submenus, check box menu items, swapping menus,
 // mnemonics (shortcuts) and action commands.
 import javax.swing.*;

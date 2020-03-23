@@ -1,4 +1,5 @@
 //: arrays/StringSorting.java
+package arrays; /* Added by Eclipse.py */
 // Sorting an array of Strings.
 import java.util.*;
 import net.mindview.util.*;

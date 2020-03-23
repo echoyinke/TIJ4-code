@@ -1,4 +1,5 @@
 //: enumerated/SpaceShip.java
+package enumerated; /* Added by Eclipse.py */
 public enum SpaceShip {
   SCOUT, CARGO, TRANSPORT, CRUISER, BATTLESHIP, MOTHERSHIP;
   public String toString() {

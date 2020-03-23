@@ -1,4 +1,5 @@
 //: generics/RestrictedComparablePets.java
+package generics; /* Added by Eclipse.py */
 
 class Hamster extends ComparablePet
 implements Comparable<ComparablePet> {

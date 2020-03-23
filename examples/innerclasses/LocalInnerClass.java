@@ -1,4 +1,5 @@
 //: innerclasses/LocalInnerClass.java
+package innerclasses; /* Added by Eclipse.py */
 // Holds a sequence of Objects.
 import static net.mindview.util.Print.*;
 

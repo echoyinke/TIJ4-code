@@ -1,4 +1,5 @@
 //: object/ShowProperties.java
+package object; /* Added by Eclipse.py */
 
 public class ShowProperties {
   public static void main(String[] args) {

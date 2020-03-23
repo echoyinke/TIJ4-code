@@ -1,4 +1,5 @@
 //: arrays/Reverse.java
+package arrays; /* Added by Eclipse.py */
 // The Collections.reverseOrder() Comparator
 import java.util.*;
 import net.mindview.util.*;

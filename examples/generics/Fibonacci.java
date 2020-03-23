@@ -1,4 +1,5 @@
 //: generics/Fibonacci.java
+package generics; /* Added by Eclipse.py */
 // Generate a Fibonacci sequence.
 import net.mindview.util.*;
 

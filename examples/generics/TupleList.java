@@ -1,4 +1,5 @@
 //: generics/TupleList.java
+package generics; /* Added by Eclipse.py */
 // Combining generic types to make complex generic types.
 import java.util.*;
 import net.mindview.util.*;

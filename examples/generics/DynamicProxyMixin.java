@@ -1,4 +1,5 @@
 //: generics/DynamicProxyMixin.java
+package generics; /* Added by Eclipse.py */
 import java.lang.reflect.*;
 import java.util.*;
 import net.mindview.util.*;

@@ -1,4 +1,5 @@
 //: containers/Tester.java
+package containers; /* Added by Eclipse.py */
 // Applies Test objects to lists of different containers.
 import java.util.*;
 

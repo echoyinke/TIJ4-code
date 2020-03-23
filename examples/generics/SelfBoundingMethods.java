@@ -1,4 +1,5 @@
 //: generics/SelfBoundingMethods.java
+package generics; /* Added by Eclipse.py */
 
 public class SelfBoundingMethods {
   static <T extends SelfBounded<T>> T f(T arg) {

@@ -1,4 +1,5 @@
 //: generics/ClassTypeCapture.java
+package generics; /* Added by Eclipse.py */
 
 class Building {}
 class House extends Building {}

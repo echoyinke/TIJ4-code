@@ -1,4 +1,5 @@
 //: generics/Apply.java
+package generics; /* Added by Eclipse.py */
 // {main: ApplyTest}
 import java.lang.reflect.*;
 import java.util.*;

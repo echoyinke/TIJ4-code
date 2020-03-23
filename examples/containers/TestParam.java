@@ -1,4 +1,5 @@
 //: containers/TestParam.java
+package containers; /* Added by Eclipse.py */
 // A "data transfer object."
 
 public class TestParam {

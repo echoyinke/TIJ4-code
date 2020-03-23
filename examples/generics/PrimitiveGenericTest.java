@@ -1,4 +1,5 @@
 //: generics/PrimitiveGenericTest.java
+package generics; /* Added by Eclipse.py */
 import net.mindview.util.*;
 
 // Fill an array using a generator:

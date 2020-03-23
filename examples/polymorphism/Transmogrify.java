@@ -1,4 +1,5 @@
 //: polymorphism/Transmogrify.java
+package polymorphism; /* Added by Eclipse.py */
 // Dynamically changing the behavior of an object
 // via composition (the "State" design pattern).
 import static net.mindview.util.Print.*;

@@ -1,4 +1,5 @@
 //: innerclasses/Sequence.java
+package innerclasses; /* Added by Eclipse.py */
 // Holds a sequence of Objects.
 
 interface Selector {

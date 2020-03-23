@@ -1,4 +1,5 @@
 //: strings/ThreatAnalyzer.java
+package strings; /* Added by Eclipse.py */
 import java.util.regex.*;
 import java.util.*;
 

@@ -1,4 +1,5 @@
 //: generics/TupleTest.java
+package generics; /* Added by Eclipse.py */
 import net.mindview.util.*;
 
 class Amphibian {}

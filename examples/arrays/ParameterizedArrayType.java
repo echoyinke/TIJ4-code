@@ -1,4 +1,5 @@
 //: arrays/ParameterizedArrayType.java
+package arrays; /* Added by Eclipse.py */
 
 class ClassParameter<T> {
   public T[] f(T[] arg) { return arg; }

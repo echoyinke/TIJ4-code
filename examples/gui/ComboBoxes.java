@@ -1,4 +1,5 @@
 //: gui/ComboBoxes.java
+package gui; /* Added by Eclipse.py */
 // Using drop-down lists.
 import javax.swing.*;
 import java.awt.*;

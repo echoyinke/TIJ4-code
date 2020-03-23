@@ -1,4 +1,5 @@
 //: exceptions/LostMessage.java
+package exceptions; /* Added by Eclipse.py */
 // How an exception can be lost.
 
 class VeryImportantException extends Exception {

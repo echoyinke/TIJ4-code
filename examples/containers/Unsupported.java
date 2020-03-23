@@ -1,4 +1,5 @@
 //: containers/Unsupported.java
+package containers; /* Added by Eclipse.py */
 // Unsupported operations in Java containers.
 import java.util.*;
 

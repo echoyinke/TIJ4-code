@@ -1,4 +1,5 @@
 //: access/Pie.java
+package access; /* Added by Eclipse.py */
 // The other class.
 
 class Pie {

@@ -1,4 +1,5 @@
 //: io/PreferencesDemo.java
+package io; /* Added by Eclipse.py */
 import java.util.prefs.*;
 import static net.mindview.util.Print.*;
 

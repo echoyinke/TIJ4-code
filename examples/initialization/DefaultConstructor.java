@@ -1,4 +1,5 @@
 //: initialization/DefaultConstructor.java
+package initialization; /* Added by Eclipse.py */
 
 class Bird {}
 

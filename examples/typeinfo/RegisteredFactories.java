@@ -1,4 +1,5 @@
 //: typeinfo/RegisteredFactories.java
+package typeinfo; /* Added by Eclipse.py */
 // Registering Class Factories in the base class.
 import typeinfo.factory.*;
 import java.util.*;

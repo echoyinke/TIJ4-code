@@ -1,4 +1,5 @@
 //: generics/Erased.java
+package generics; /* Added by Eclipse.py */
 // {CompileTimeError} (Won't compile)
 
 public class Erased<T> {

@@ -1,4 +1,5 @@
 //: interfaces/TestRandVals.java
+package interfaces; /* Added by Eclipse.py */
 import static net.mindview.util.Print.*;
 
 public class TestRandVals {

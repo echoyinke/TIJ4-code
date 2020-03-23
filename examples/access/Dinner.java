@@ -1,4 +1,5 @@
 //: access/Dinner.java
+package access; /* Added by Eclipse.py */
 // Uses the library.
 import access.dessert.*;
 

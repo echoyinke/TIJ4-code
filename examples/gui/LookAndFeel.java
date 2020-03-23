@@ -1,4 +1,5 @@
 //: gui/LookAndFeel.java
+package gui; /* Added by Eclipse.py */
 // Selecting different looks & feels.
 // {Args: motif}
 import javax.swing.*;

@@ -1,4 +1,5 @@
 //: gui/Popup.java
+package gui; /* Added by Eclipse.py */
 // Creating popup menus with Swing.
 import javax.swing.*;
 import java.awt.*;

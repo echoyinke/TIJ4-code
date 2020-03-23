@@ -1,4 +1,5 @@
 //: io/FreezeAlien.java
+package io; /* Added by Eclipse.py */
 // Create a serialized output file.
 import java.io.*;
 

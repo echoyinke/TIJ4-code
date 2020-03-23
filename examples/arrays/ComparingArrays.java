@@ -1,4 +1,5 @@
 //: arrays/ComparingArrays.java
+package arrays; /* Added by Eclipse.py */
 // Using Arrays.equals()
 import java.util.*;
 import static net.mindview.util.Print.*;

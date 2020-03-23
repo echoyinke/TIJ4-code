@@ -1,4 +1,5 @@
 //: generics/SelfBoundingAndCovariantArguments.java
+package generics; /* Added by Eclipse.py */
 
 interface SelfBoundSetter<T extends SelfBoundSetter<T>> {
   void set(T arg);

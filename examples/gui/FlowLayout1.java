@@ -1,4 +1,5 @@
 //: gui/FlowLayout1.java
+package gui; /* Added by Eclipse.py */
 // Demonstrates FlowLayout.
 import javax.swing.*;
 import java.awt.*;

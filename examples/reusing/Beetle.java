@@ -1,4 +1,5 @@
 //: reusing/Beetle.java
+package reusing; /* Added by Eclipse.py */
 // The full process of initialization.
 import static net.mindview.util.Print.*;
 

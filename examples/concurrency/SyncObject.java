@@ -1,4 +1,5 @@
 //: concurrency/SyncObject.java
+package concurrency; /* Added by Eclipse.py */
 // Synchronizing on another object.
 import static net.mindview.util.Print.*;
 

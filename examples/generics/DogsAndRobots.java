@@ -1,4 +1,5 @@
 //: generics/DogsAndRobots.java
+package generics; /* Added by Eclipse.py */
 // No latent typing in Java
 import typeinfo.pets.*;
 import static net.mindview.util.Print.*;

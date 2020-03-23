@@ -1,4 +1,5 @@
 //: generics/OrdinaryArguments.java
+package generics; /* Added by Eclipse.py */
 
 class OrdinarySetter {
   void set(Base base) {

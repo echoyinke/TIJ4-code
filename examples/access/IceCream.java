@@ -1,4 +1,5 @@
 //: access/IceCream.java
+package access; /* Added by Eclipse.py */
 // Demonstrates "private" keyword.
 
 class Sundae {

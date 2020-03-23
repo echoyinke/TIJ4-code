@@ -1,4 +1,5 @@
 //: enumerated/SecurityCategory.java
+package enumerated; /* Added by Eclipse.py */
 // More succinct subcategorization of enums.
 import net.mindview.util.*;
 

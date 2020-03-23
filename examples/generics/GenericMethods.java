@@ -1,4 +1,5 @@
 //: generics/GenericMethods.java
+package generics; /* Added by Eclipse.py */
 
 public class GenericMethods {
   public <T> void f(T x) {

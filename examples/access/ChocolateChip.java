@@ -1,4 +1,5 @@
 //: access/ChocolateChip.java
+package access; /* Added by Eclipse.py */
 // Can't use package-access member from another package.
 import access.dessert.*;
 

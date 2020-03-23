@@ -1,4 +1,5 @@
 //: gui/RadioButtons.java
+package gui; /* Added by Eclipse.py */
 // Using JRadioButtons.
 import javax.swing.*;
 import java.awt.*;

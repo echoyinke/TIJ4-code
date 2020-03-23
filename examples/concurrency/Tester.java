@@ -1,4 +1,5 @@
 //: concurrency/Tester.java
+package concurrency; /* Added by Eclipse.py */
 // Framework to test performance of concurrency containers.
 import java.util.concurrent.*;
 import net.mindview.util.*;

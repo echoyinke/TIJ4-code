@@ -1,4 +1,5 @@
 //: containers/Maps.java
+package containers; /* Added by Eclipse.py */
 // Things you can do with Maps.
 import java.util.concurrent.*;
 import java.util.*;

@@ -1,4 +1,5 @@
 //: io/MakeDirectories.java
+package io; /* Added by Eclipse.py */
 // Demonstrates the use of the File class to
 // create directories and manipulate files.
 // {Args: MakeDirectoriesTest}

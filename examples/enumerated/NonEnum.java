@@ -1,4 +1,5 @@
 //: enumerated/NonEnum.java
+package enumerated; /* Added by Eclipse.py */
 
 public class NonEnum {
   public static void main(String[] args) {

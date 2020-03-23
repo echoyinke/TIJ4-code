@@ -1,4 +1,5 @@
 //: concurrency/Chopstick.java
+package concurrency; /* Added by Eclipse.py */
 // Chopsticks for dining philosophers.
 
 public class Chopstick {

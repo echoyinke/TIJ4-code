@@ -1,4 +1,5 @@
 //: exceptions/MainException.java
+package exceptions; /* Added by Eclipse.py */
 import java.io.*;
 
 public class MainException {

@@ -1,4 +1,5 @@
 //: concurrency/Interrupting.java
+package concurrency; /* Added by Eclipse.py */
 // Interrupting a blocked thread.
 import java.util.concurrent.*;
 import java.io.*;

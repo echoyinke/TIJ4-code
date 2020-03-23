@@ -1,4 +1,5 @@
 //: io/UsingRandomAccessFile.java
+package io; /* Added by Eclipse.py */
 import java.io.*;
 
 public class UsingRandomAccessFile {

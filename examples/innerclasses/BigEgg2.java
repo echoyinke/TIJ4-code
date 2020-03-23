@@ -1,4 +1,5 @@
 //: innerclasses/BigEgg2.java
+package innerclasses; /* Added by Eclipse.py */
 // Proper inheritance of an inner class.
 import static net.mindview.util.Print.*;
 

@@ -1,4 +1,5 @@
 //: containers/IndividualTest.java
+package containers; /* Added by Eclipse.py */
 import holding.MapOfList;
 import typeinfo.pets.*;
 import java.util.*;

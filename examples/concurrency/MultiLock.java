@@ -1,4 +1,5 @@
 //: concurrency/MultiLock.java
+package concurrency; /* Added by Eclipse.py */
 // One thread can reacquire the same lock.
 import static net.mindview.util.Print.*;
 

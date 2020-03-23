@@ -1,4 +1,5 @@
 //: io/TransferTo.java
+package io; /* Added by Eclipse.py */
 // Using transferTo() between channels
 // {Args: TransferTo.java TransferTo.txt}
 import java.nio.channels.*;

@@ -1,4 +1,5 @@
 //: typeinfo/InterfaceViolation.java
+package typeinfo; /* Added by Eclipse.py */
 // Sneaking around an interface.
 import typeinfo.interfacea.*;
 

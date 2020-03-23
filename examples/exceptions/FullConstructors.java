@@ -1,4 +1,5 @@
 //: exceptions/FullConstructors.java
+package exceptions; /* Added by Eclipse.py */
 
 class MyException extends Exception {
   public MyException() {}

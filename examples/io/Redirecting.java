@@ -1,4 +1,5 @@
 //: io/Redirecting.java
+package io; /* Added by Eclipse.py */
 // Demonstrates standard I/O redirection.
 import java.io.*;
 

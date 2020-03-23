@@ -1,4 +1,5 @@
 //: containers/SpringDetector.java
+package containers; /* Added by Eclipse.py */
 // What will the weather be?
 import java.lang.reflect.*;
 import java.util.*;

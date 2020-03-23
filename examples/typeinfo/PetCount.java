@@ -1,4 +1,5 @@
 //: typeinfo/PetCount.java
+package typeinfo; /* Added by Eclipse.py */
 // Using instanceof.
 import typeinfo.pets.*;
 import java.util.*;

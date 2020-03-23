@@ -1,4 +1,5 @@
 //: concurrency/OrnamentalGarden.java
+package concurrency; /* Added by Eclipse.py */
 import java.util.concurrent.*;
 import java.util.*;
 import static net.mindview.util.Print.*;

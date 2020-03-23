@@ -1,4 +1,5 @@
 //: generics/CuriouslyRecurringGeneric.java
+package generics; /* Added by Eclipse.py */
 
 class GenericType<T> {}
 

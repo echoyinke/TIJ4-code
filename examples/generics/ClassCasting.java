@@ -1,4 +1,5 @@
 //: generics/ClassCasting.java
+package generics; /* Added by Eclipse.py */
 import java.io.*;
 import java.util.*;
 

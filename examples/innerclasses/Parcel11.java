@@ -1,4 +1,5 @@
 //: innerclasses/Parcel11.java
+package innerclasses; /* Added by Eclipse.py */
 // Nested classes (static inner classes).
 
 public class Parcel11 {

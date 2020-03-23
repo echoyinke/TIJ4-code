@@ -1,4 +1,5 @@
 //: typeinfo/SweetShop.java
+package typeinfo; /* Added by Eclipse.py */
 // Examination of the way the class loader works.
 import static net.mindview.util.Print.*;
 

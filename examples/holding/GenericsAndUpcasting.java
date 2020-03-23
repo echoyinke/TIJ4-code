@@ -1,4 +1,5 @@
 //: holding/GenericsAndUpcasting.java
+package holding; /* Added by Eclipse.py */
 import java.util.*;
 
 class GrannySmith extends Apple {}

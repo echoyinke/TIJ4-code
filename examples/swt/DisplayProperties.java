@@ -1,4 +1,5 @@
 //: swt/DisplayProperties.java
+package swt; /* Added by Eclipse.py */
 import org.eclipse.swt.*;
 import org.eclipse.swt.widgets.*;
 import org.eclipse.swt.layout.*;

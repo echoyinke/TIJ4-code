@@ -1,4 +1,5 @@
 //: reusing/SpaceShipControls.java
+package reusing; /* Added by Eclipse.py */
 
 public class SpaceShipControls {
   void up(int velocity) {}

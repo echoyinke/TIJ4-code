@@ -1,4 +1,5 @@
 //: initialization/PassingThis.java
+package initialization; /* Added by Eclipse.py */
 
 class Person {
   public void eat(Apple apple) {

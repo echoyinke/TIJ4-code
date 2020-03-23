@@ -1,4 +1,5 @@
 //: enumerated/PostOffice.java
+package enumerated; /* Added by Eclipse.py */
 // Modeling a post office.
 import java.util.*;
 import net.mindview.util.*;

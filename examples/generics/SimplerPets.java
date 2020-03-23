@@ -1,4 +1,5 @@
 //: generics/SimplerPets.java
+package generics; /* Added by Eclipse.py */
 import typeinfo.pets.*;
 import java.util.*;
 import net.mindview.util.*;

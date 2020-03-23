@@ -1,4 +1,5 @@
 //: interfaces/RandomWords.java
+package interfaces; /* Added by Eclipse.py */
 // Implementing an interface to conform to a method.
 import java.nio.*;
 import java.util.*;

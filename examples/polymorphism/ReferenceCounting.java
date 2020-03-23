@@ -1,4 +1,5 @@
 //: polymorphism/ReferenceCounting.java
+package polymorphism; /* Added by Eclipse.py */
 // Cleaning up shared member objects.
 import static net.mindview.util.Print.*;
 

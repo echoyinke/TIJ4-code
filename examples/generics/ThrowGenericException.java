@@ -1,4 +1,5 @@
 //: generics/ThrowGenericException.java
+package generics; /* Added by Eclipse.py */
 import java.util.*;
 
 interface Processor<T,E extends Exception> {

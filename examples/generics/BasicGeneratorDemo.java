@@ -1,4 +1,5 @@
 //: generics/BasicGeneratorDemo.java
+package generics; /* Added by Eclipse.py */
 import net.mindview.util.*;
 
 public class BasicGeneratorDemo {

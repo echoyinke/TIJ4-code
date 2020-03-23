@@ -1,4 +1,5 @@
 //: holding/PrintingContainers.java
+package holding; /* Added by Eclipse.py */
 // Containers print themselves automatically.
 import java.util.*;
 import static net.mindview.util.Print.*;

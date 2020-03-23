@@ -1,4 +1,5 @@
 //: io/ViewBuffers.java
+package io; /* Added by Eclipse.py */
 import java.nio.*;
 import static net.mindview.util.Print.*;
 

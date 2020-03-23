@@ -1,4 +1,5 @@
 //: generics/SimpleDogsAndRobots.java
+package generics; /* Added by Eclipse.py */
 // Removing the generic; code still works.
 
 class CommunicateSimply {

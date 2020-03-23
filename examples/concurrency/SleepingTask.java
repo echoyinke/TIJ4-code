@@ -1,4 +1,5 @@
 //: concurrency/SleepingTask.java
+package concurrency; /* Added by Eclipse.py */
 // Calling sleep() to pause for a while.
 import java.util.concurrent.*;
 

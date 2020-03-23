@@ -1,4 +1,5 @@
 //: reusing/FinalArguments.java
+package reusing; /* Added by Eclipse.py */
 // Using "final" with method arguments.
 
 class Gizmo {

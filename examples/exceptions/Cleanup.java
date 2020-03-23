@@ -1,4 +1,5 @@
 //: exceptions/Cleanup.java
+package exceptions; /* Added by Eclipse.py */
 // Guaranteeing proper cleanup of a resource.
 
 public class Cleanup {

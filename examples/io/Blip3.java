@@ -1,4 +1,5 @@
 //: io/Blip3.java
+package io; /* Added by Eclipse.py */
 // Reconstructing an externalizable object.
 import java.io.*;
 import static net.mindview.util.Print.*;

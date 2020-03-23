@@ -1,4 +1,5 @@
 //: operators/RoundingNumbers.java
+package operators; /* Added by Eclipse.py */
 // Rounding floats and doubles.
 import static net.mindview.util.Print.*;
 

@@ -1,4 +1,5 @@
 //: innerclasses/DotNew.java
+package innerclasses; /* Added by Eclipse.py */
 // Creating an inner class directly using the .new syntax.
 
 public class DotNew {

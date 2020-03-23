@@ -1,4 +1,5 @@
 //: enumerated/TrafficLight.java
+package enumerated; /* Added by Eclipse.py */
 // Enums in switch statements.
 import static net.mindview.util.Print.*;
 

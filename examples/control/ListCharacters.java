@@ -1,4 +1,5 @@
 //: control/ListCharacters.java
+package control; /* Added by Eclipse.py */
 // Demonstrates "for" loop by listing
 // all the lowercase ASCII letters.
 

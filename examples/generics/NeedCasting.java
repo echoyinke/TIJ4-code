@@ -1,4 +1,5 @@
 //: generics/NeedCasting.java
+package generics; /* Added by Eclipse.py */
 import java.io.*;
 import java.util.*;
 

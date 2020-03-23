@@ -1,4 +1,5 @@
 //: strings/DatabaseException.java
+package strings; /* Added by Eclipse.py */
 
 public class DatabaseException extends Exception {
   public DatabaseException(int transactionID, int queryID,

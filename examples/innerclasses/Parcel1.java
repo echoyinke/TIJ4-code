@@ -1,4 +1,5 @@
 //: innerclasses/Parcel1.java
+package innerclasses; /* Added by Eclipse.py */
 // Creating inner classes.
 
 public class Parcel1 {

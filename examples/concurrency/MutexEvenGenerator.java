@@ -1,4 +1,5 @@
 //: concurrency/MutexEvenGenerator.java
+package concurrency; /* Added by Eclipse.py */
 // Preventing thread collisions with mutexes.
 // {RunByHand}
 import java.util.concurrent.locks.*;

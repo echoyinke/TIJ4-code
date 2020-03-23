@@ -1,4 +1,5 @@
 //: strings/Receipt.java
+package strings; /* Added by Eclipse.py */
 import java.util.*;
 
 public class Receipt {

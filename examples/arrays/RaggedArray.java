@@ -1,4 +1,5 @@
 //: arrays/RaggedArray.java
+package arrays; /* Added by Eclipse.py */
 import java.util.*;
 
 public class RaggedArray {

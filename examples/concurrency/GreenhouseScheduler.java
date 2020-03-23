@@ -1,4 +1,5 @@
 //: concurrency/GreenhouseScheduler.java
+package concurrency; /* Added by Eclipse.py */
 // Rewriting innerclasses/GreenhouseController.java
 // to use a ScheduledThreadPoolExecutor.
 // {Args: 5000}

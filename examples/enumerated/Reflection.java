@@ -1,4 +1,5 @@
 //: enumerated/Reflection.java
+package enumerated; /* Added by Eclipse.py */
 // Analyzing enums using reflection.
 import java.lang.reflect.*;
 import java.util.*;

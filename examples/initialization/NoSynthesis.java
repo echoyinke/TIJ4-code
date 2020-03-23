@@ -1,4 +1,5 @@
 //: initialization/NoSynthesis.java
+package initialization; /* Added by Eclipse.py */
 
 class Bird2 {
   Bird2(int i) {}

@@ -1,4 +1,5 @@
 //: containers/SortedMapDemo.java
+package containers; /* Added by Eclipse.py */
 // What you can do with a TreeMap.
 import java.util.*;
 import net.mindview.util.*;

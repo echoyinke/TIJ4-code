@@ -1,4 +1,5 @@
 //: strings/Groups.java
+package strings; /* Added by Eclipse.py */
 import java.util.regex.*;
 import static net.mindview.util.Print.*;
 

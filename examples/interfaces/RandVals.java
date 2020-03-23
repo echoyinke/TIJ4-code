@@ -1,4 +1,5 @@
 //: interfaces/RandVals.java
+package interfaces; /* Added by Eclipse.py */
 // Initializing interface fields with
 // non-constant initializers.
 import java.util.*;

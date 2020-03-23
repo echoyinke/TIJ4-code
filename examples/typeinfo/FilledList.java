@@ -1,4 +1,5 @@
 //: typeinfo/FilledList.java
+package typeinfo; /* Added by Eclipse.py */
 import java.util.*;
 
 class CountedInteger {

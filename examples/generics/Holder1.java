@@ -1,4 +1,5 @@
 //: generics/Holder1.java
+package generics; /* Added by Eclipse.py */
 
 class Automobile {}
 

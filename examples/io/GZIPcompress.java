@@ -1,4 +1,5 @@
 //: io/GZIPcompress.java
+package io; /* Added by Eclipse.py */
 // {Args: GZIPcompress.java}
 import java.util.zip.*;
 import java.io.*;

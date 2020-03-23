@@ -1,4 +1,5 @@
 //: gui/BangBean2.java
+package gui; /* Added by Eclipse.py */
 // You should write your Beans this way so they
 // can run in a multithreaded environment.
 import javax.swing.*;

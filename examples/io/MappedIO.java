@@ -1,4 +1,5 @@
 //: io/MappedIO.java
+package io; /* Added by Eclipse.py */
 import java.nio.*;
 import java.nio.channels.*;
 import java.io.*;

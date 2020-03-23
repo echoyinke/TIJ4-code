@@ -1,4 +1,5 @@
 //: control/BreakAndContinue.java
+package control; /* Added by Eclipse.py */
 // Demonstrates break and continue keywords.
 import static net.mindview.util.Range.*;
 

@@ -1,4 +1,5 @@
 //: initialization/AutoboxingVarargs.java
+package initialization; /* Added by Eclipse.py */
 
 public class AutoboxingVarargs {
   public static void f(Integer... args) {

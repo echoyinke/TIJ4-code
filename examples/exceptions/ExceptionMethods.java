@@ -1,4 +1,5 @@
 //: exceptions/ExceptionMethods.java
+package exceptions; /* Added by Eclipse.py */
 // Demonstrating the Exception Methods.
 import static net.mindview.util.Print.*;
 

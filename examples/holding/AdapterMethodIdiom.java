@@ -1,4 +1,5 @@
 //: holding/AdapterMethodIdiom.java
+package holding; /* Added by Eclipse.py */
 // The "Adapter Method" idiom allows you to use foreach
 // with additional kinds of Iterables.
 import java.util.*;

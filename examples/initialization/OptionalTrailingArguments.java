@@ -1,4 +1,5 @@
 //: initialization/OptionalTrailingArguments.java
+package initialization; /* Added by Eclipse.py */
 
 public class OptionalTrailingArguments {
   static void f(int required, String... trailing) {

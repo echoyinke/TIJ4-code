@@ -1,4 +1,5 @@
 //: gui/Dialogs.java
+package gui; /* Added by Eclipse.py */
 // Creating and using Dialog Boxes.
 import javax.swing.*;
 import java.awt.*;

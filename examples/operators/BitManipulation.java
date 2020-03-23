@@ -1,4 +1,5 @@
 //: operators/BitManipulation.java
+package operators; /* Added by Eclipse.py */
 // Using the bitwise operators.
 import java.util.*;
 import static net.mindview.util.Print.*;

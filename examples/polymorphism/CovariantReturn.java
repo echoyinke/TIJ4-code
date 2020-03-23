@@ -1,4 +1,5 @@
 //: polymorphism/CovariantReturn.java
+package polymorphism; /* Added by Eclipse.py */
 
 class Grain {
   public String toString() { return "Grain"; }

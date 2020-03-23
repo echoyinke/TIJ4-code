@@ -1,4 +1,5 @@
 //: io/StoreCADState.java
+package io; /* Added by Eclipse.py */
 // Saving the state of a pretend CAD system.
 import java.io.*;
 import java.util.*;

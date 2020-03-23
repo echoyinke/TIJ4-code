@@ -1,4 +1,5 @@
 //: io/FileLocking.java
+package io; /* Added by Eclipse.py */
 import java.nio.channels.*;
 import java.util.concurrent.*;
 import java.io.*;

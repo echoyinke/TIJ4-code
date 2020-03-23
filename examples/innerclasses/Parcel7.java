@@ -1,4 +1,5 @@
 //: innerclasses/Parcel7.java
+package innerclasses; /* Added by Eclipse.py */
 // Returning an instance of an anonymous inner class.
 
 public class Parcel7 {

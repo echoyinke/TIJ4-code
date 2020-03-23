@@ -1,4 +1,5 @@
 //: holding/PetMap.java
+package holding; /* Added by Eclipse.py */
 import typeinfo.pets.*;
 import java.util.*;
 import static net.mindview.util.Print.*;

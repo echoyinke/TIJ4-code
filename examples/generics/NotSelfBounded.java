@@ -1,4 +1,5 @@
 //: generics/NotSelfBounded.java
+package generics; /* Added by Eclipse.py */
 
 public class NotSelfBounded<T> {
   T element;

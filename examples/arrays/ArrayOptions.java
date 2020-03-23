@@ -1,4 +1,5 @@
 //: arrays/ArrayOptions.java
+package arrays; /* Added by Eclipse.py */
 // Initialization & re-assignment of arrays.
 import java.util.*;
 import static net.mindview.util.Print.*;

@@ -1,4 +1,5 @@
 //: control/VowelsAndConsonants.java
+package control; /* Added by Eclipse.py */
 // Demonstrates the switch statement.
 import java.util.*;
 import static net.mindview.util.Print.*;

@@ -1,4 +1,5 @@
 //: reusing/Bath.java
+package reusing; /* Added by Eclipse.py */
 // Constructor initialization with composition.
 import static net.mindview.util.Print.*;
 

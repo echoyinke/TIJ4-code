@@ -1,4 +1,5 @@
 //: containers/CollectionDataGeneration.java
+package containers; /* Added by Eclipse.py */
 // Using the Generators defined in the Arrays chapter.
 import java.util.*;
 import net.mindview.util.*;

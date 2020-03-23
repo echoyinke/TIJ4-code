@@ -1,4 +1,5 @@
 //: gui/ShowAddListeners.java
+package gui; /* Added by Eclipse.py */
 // Display the "addXXXListener" methods of any Swing class.
 import javax.swing.*;
 import java.awt.*;

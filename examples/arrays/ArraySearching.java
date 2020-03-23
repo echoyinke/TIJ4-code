@@ -1,4 +1,5 @@
 //: arrays/ArraySearching.java
+package arrays; /* Added by Eclipse.py */
 // Using Arrays.binarySearch().
 import java.util.*;
 import net.mindview.util.*;

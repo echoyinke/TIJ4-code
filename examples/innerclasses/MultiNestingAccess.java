@@ -1,4 +1,5 @@
 //: innerclasses/MultiNestingAccess.java
+package innerclasses; /* Added by Eclipse.py */
 // Nested classes can access all members of all
 // levels of the classes they are nested within.
 

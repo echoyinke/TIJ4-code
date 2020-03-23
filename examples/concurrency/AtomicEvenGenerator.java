@@ -1,4 +1,5 @@
 //: concurrency/AtomicEvenGenerator.java
+package concurrency; /* Added by Eclipse.py */
 // Atomic classes are occasionally useful in regular code.
 // {RunByHand}
 import java.util.concurrent.atomic.*;

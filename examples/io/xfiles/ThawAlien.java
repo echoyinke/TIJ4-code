@@ -1,4 +1,5 @@
 //: io/xfiles/ThawAlien.java
+package io.xfiles; /* Added by Eclipse.py */
 // Try to recover a serialized file without the
 // class of object that's stored in that file.
 // {RunByHand}

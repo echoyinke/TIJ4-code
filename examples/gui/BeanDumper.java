@@ -1,4 +1,5 @@
 //: gui/BeanDumper.java
+package gui; /* Added by Eclipse.py */
 // Introspecting a Bean.
 import javax.swing.*;
 import java.awt.*;

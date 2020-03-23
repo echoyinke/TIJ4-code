@@ -1,4 +1,5 @@
 //: operators/ShortCircuit.java
+package operators; /* Added by Eclipse.py */
 // Demonstrates short-circuiting behavior
 // with logical operators.
 import static net.mindview.util.Print.*;

@@ -1,4 +1,5 @@
 //: arrays/AlphabeticSearch.java
+package arrays; /* Added by Eclipse.py */
 // Searching with a Comparator.
 import java.util.*;
 import net.mindview.util.*;

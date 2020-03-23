@@ -1,4 +1,5 @@
 //: containers/SetPerformance.java
+package containers; /* Added by Eclipse.py */
 // Demonstrates performance differences in Sets.
 // {Args: 100 5000} Small to keep build testing short
 import java.util.*;

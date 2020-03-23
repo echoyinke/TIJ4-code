@@ -1,4 +1,5 @@
 //: containers/MapEntry.java
+package containers; /* Added by Eclipse.py */
 // A simple Map.Entry for sample Map implementations.
 import java.util.*;
 

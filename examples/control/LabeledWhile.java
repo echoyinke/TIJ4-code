@@ -1,4 +1,5 @@
 //: control/LabeledWhile.java
+package control; /* Added by Eclipse.py */
 // While loops with "labeled break" and "labeled continue."
 import static net.mindview.util.Print.*;
 

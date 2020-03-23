@@ -1,4 +1,5 @@
 //: object/HelloDate.java
+package object; /* Added by Eclipse.py */
 import java.util.*;
 
 /** The first Thinking in Java example program.

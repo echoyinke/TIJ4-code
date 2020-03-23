@@ -1,4 +1,5 @@
 //: swt/TabbedPane.java
+package swt; /* Added by Eclipse.py */
 // Placing SWT components in tabbed panes.
 import swt.util.*;
 import org.eclipse.swt.*;

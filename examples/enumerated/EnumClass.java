@@ -1,4 +1,5 @@
 //: enumerated/EnumClass.java
+package enumerated; /* Added by Eclipse.py */
 // Capabilities of the Enum class
 import static net.mindview.util.Print.*;
 

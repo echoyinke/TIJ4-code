@@ -1,4 +1,5 @@
 //: generics/BankTeller.java
+package generics; /* Added by Eclipse.py */
 // A very simple bank teller simulation.
 import java.util.*;
 import net.mindview.util.*;

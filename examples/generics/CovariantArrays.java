@@ -1,4 +1,5 @@
 //: generics/CovariantArrays.java
+package generics; /* Added by Eclipse.py */
 
 class Fruit {}
 class Apple extends Fruit {}

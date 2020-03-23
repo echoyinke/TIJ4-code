@@ -1,4 +1,5 @@
 //: gui/TextFields.java
+package gui; /* Added by Eclipse.py */
 // Text fields and Java events.
 import javax.swing.*;
 import javax.swing.event.*;

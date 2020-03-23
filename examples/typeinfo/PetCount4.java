@@ -1,4 +1,5 @@
 //: typeinfo/PetCount4.java
+package typeinfo; /* Added by Eclipse.py */
 import typeinfo.pets.*;
 import net.mindview.util.*;
 import static net.mindview.util.Print.*;

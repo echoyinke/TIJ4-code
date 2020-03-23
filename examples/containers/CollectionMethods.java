@@ -1,4 +1,5 @@
 //: containers/CollectionMethods.java
+package containers; /* Added by Eclipse.py */
 // Things you can do with all Collections.
 import java.util.*;
 import net.mindview.util.*;

@@ -1,4 +1,5 @@
 //: io/GetData.java
+package io; /* Added by Eclipse.py */
 // Getting different representations from a ByteBuffer
 import java.nio.*;
 import static net.mindview.util.Print.*;

@@ -1,4 +1,5 @@
 //: gui/Buttons.java
+package gui; /* Added by Eclipse.py */
 // Various Swing buttons.
 import javax.swing.*;
 import javax.swing.border.*;

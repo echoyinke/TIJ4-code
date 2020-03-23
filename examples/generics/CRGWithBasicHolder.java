@@ -1,4 +1,5 @@
 //: generics/CRGWithBasicHolder.java
+package generics; /* Added by Eclipse.py */
 
 class Subtype extends BasicHolder<Subtype> {}
 

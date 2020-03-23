@@ -1,4 +1,5 @@
 //: generics/LinkedStack.java
+package generics; /* Added by Eclipse.py */
 // A stack implemented with an internal linked structure.
 
 public class LinkedStack<T> {

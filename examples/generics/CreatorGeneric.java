@@ -1,4 +1,5 @@
 //: generics/CreatorGeneric.java
+package generics; /* Added by Eclipse.py */
 
 abstract class GenericWithCreate<T> {
   final T element;

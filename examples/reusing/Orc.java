@@ -1,4 +1,5 @@
 //: reusing/Orc.java
+package reusing; /* Added by Eclipse.py */
 // The protected keyword.
 import static net.mindview.util.Print.*;
 

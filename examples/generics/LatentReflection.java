@@ -1,4 +1,5 @@
 //: generics/LatentReflection.java
+package generics; /* Added by Eclipse.py */
 // Using Reflection to produce latent typing.
 import java.lang.reflect.*;
 import static net.mindview.util.Print.*;

@@ -1,4 +1,5 @@
 //: exceptions/InheritingExceptions.java
+package exceptions; /* Added by Eclipse.py */
 // Creating your own exceptions.
 
 class SimpleException extends Exception {}

@@ -1,4 +1,5 @@
 //: holding/AsListInference.java
+package holding; /* Added by Eclipse.py */
 // Arrays.asList() makes its best guess about type.
 import java.util.*;
 

@@ -1,4 +1,5 @@
 //: exceptions/Rethrowing.java
+package exceptions; /* Added by Eclipse.py */
 // Demonstrating fillInStackTrace()
 
 public class Rethrowing {

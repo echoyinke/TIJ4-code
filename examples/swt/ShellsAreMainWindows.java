@@ -1,4 +1,5 @@
 //: swt/ShellsAreMainWindows.java
+package swt; /* Added by Eclipse.py */
 import org.eclipse.swt.widgets.*;
 
 public class ShellsAreMainWindows {

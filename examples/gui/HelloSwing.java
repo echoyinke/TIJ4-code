@@ -1,4 +1,5 @@
 //: gui/HelloSwing.java
+package gui; /* Added by Eclipse.py */
 import javax.swing.*;
 
 public class HelloSwing {

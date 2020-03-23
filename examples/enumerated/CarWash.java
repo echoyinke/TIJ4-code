@@ -1,4 +1,5 @@
 //: enumerated/CarWash.java
+package enumerated; /* Added by Eclipse.py */
 import java.util.*;
 import static net.mindview.util.Print.*;
 

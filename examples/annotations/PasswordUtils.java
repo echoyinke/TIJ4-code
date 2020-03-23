@@ -1,4 +1,5 @@
 //: annotations/PasswordUtils.java
+package annotations; /* Added by Eclipse.py */
 import java.util.*;
 
 public class PasswordUtils {

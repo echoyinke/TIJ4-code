@@ -1,4 +1,5 @@
 //: strings/SimpleRead.java
+package strings; /* Added by Eclipse.py */
 import java.io.*;
 
 public class SimpleRead {

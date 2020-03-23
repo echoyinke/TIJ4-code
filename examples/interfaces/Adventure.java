@@ -1,4 +1,5 @@
 //: interfaces/Adventure.java
+package interfaces; /* Added by Eclipse.py */
 // Multiple interfaces.
 
 interface CanFight {

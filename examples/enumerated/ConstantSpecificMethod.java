@@ -1,4 +1,5 @@
 //: enumerated/ConstantSpecificMethod.java
+package enumerated; /* Added by Eclipse.py */
 import java.util.*;
 import java.text.*;
 

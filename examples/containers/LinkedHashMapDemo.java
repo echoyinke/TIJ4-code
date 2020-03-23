@@ -1,4 +1,5 @@
 //: containers/LinkedHashMapDemo.java
+package containers; /* Added by Eclipse.py */
 // What you can do with a LinkedHashMap.
 import java.util.*;
 import net.mindview.util.*;

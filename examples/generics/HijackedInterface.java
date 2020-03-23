@@ -1,4 +1,5 @@
 //: generics/HijackedInterface.java
+package generics; /* Added by Eclipse.py */
 // {CompileTimeError} (Won't compile)
 
 class Cat extends ComparablePet implements Comparable<Cat>{

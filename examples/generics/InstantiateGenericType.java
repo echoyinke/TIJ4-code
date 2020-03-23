@@ -1,4 +1,5 @@
 //: generics/InstantiateGenericType.java
+package generics; /* Added by Eclipse.py */
 import static net.mindview.util.Print.*;
 
 class ClassAsFactory<T> {
@@ -12,7 +13,6 @@ class ClassAsFactory<T> {
   }
 }
 
-class Employee {}	
 
 public class InstantiateGenericType {
   public static void main(String[] args) {

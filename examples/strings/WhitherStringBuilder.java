@@ -1,4 +1,5 @@
 //: strings/WhitherStringBuilder.java
+package strings; /* Added by Eclipse.py */
 
 public class WhitherStringBuilder {
   public String implicit(String[] fields) {

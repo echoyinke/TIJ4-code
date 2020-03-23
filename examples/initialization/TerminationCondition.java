@@ -1,4 +1,5 @@
 //: initialization/TerminationCondition.java
+package initialization; /* Added by Eclipse.py */
 // Using finalize() to detect an object that
 // hasn't been properly cleaned up.
 

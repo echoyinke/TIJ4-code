@@ -1,4 +1,5 @@
 //: gui/MonitoredLongRunningCallable.java
+package gui; /* Added by Eclipse.py */
 // Displaying task progress with ProgressMonitors.
 import javax.swing.*;
 import java.awt.*;

@@ -1,4 +1,5 @@
 //: strings/InfiniteRecursion.java
+package strings; /* Added by Eclipse.py */
 // Accidental recursion.
 // {RunByHand}
 import java.util.*;

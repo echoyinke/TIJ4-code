@@ -1,4 +1,5 @@
 //: reusing/PlaceSetting.java
+package reusing; /* Added by Eclipse.py */
 // Combining composition & inheritance.
 import static net.mindview.util.Print.*;
 

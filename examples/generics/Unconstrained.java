@@ -1,4 +1,5 @@
 //: generics/Unconstrained.java
+package generics; /* Added by Eclipse.py */
 
 class Other {}
 class BasicOther extends BasicHolder<Other> {}

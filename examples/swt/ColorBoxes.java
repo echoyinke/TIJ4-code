@@ -1,4 +1,5 @@
 //: swt/ColorBoxes.java
+package swt; /* Added by Eclipse.py */
 // SWT translation of Swing ColorBoxes.java.
 import swt.util.*;
 import org.eclipse.swt.*;

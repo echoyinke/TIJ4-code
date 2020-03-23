@@ -1,4 +1,5 @@
 //: gui/TextArea.java
+package gui; /* Added by Eclipse.py */
 // Using the JTextArea control.
 import javax.swing.*;
 import java.awt.*;

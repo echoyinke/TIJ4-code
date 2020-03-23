@@ -1,4 +1,5 @@
 //: enumerated/OzWitch.java
+package enumerated; /* Added by Eclipse.py */
 // The witches in the land of Oz.
 import static net.mindview.util.Print.*;
 

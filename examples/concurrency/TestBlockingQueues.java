@@ -1,4 +1,5 @@
 //: concurrency/TestBlockingQueues.java
+package concurrency; /* Added by Eclipse.py */
 // {RunByHand}
 import java.util.concurrent.*;
 import java.io.*;

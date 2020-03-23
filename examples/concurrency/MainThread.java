@@ -1,4 +1,5 @@
 //: concurrency/MainThread.java
+package concurrency; /* Added by Eclipse.py */
 
 public class MainThread {
   public static void main(String[] args) {

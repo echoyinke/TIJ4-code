@@ -1,4 +1,5 @@
 //: reusing/Jurassic.java
+package reusing; /* Added by Eclipse.py */
 // Making an entire class final.
 
 class SmallBrain {}

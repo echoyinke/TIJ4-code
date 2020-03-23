@@ -1,4 +1,5 @@
 //: strings/Resetting.java
+package strings; /* Added by Eclipse.py */
 import java.util.regex.*;
 
 public class Resetting {

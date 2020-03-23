@@ -1,4 +1,5 @@
 //: io/IntBufferDemo.java
+package io; /* Added by Eclipse.py */
 // Manipulating ints in a ByteBuffer with an IntBuffer
 import java.nio.*;
 

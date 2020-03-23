@@ -1,4 +1,5 @@
 //: io/BufferedInputFile.java
+package io; /* Added by Eclipse.py */
 import java.io.*;
 
 public class BufferedInputFile {

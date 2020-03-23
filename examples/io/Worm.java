@@ -1,4 +1,5 @@
 //: io/Worm.java
+package io; /* Added by Eclipse.py */
 // Demonstrates object serialization.
 import java.io.*;
 import java.util.*;

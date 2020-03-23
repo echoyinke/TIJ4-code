@@ -1,4 +1,5 @@
 //: containers/ReadOnly.java
+package containers; /* Added by Eclipse.py */
 // Using the Collections.unmodifiable methods.
 import java.util.*;
 import net.mindview.util.*;

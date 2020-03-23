@@ -1,4 +1,5 @@
 //: generics/Fill.java
+package generics; /* Added by Eclipse.py */
 // Generalizing the FilledList idea
 // {main: FillTest}
 import java.util.*;

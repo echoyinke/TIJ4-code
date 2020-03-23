@@ -1,4 +1,5 @@
 //: io/SerialCtl.java
+package io; /* Added by Eclipse.py */
 // Controlling serialization by adding your own
 // writeObject() and readObject() methods.
 import java.io.*;

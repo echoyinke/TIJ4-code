@@ -1,4 +1,5 @@
 //: typeinfo/GenericClassReferences.java
+package typeinfo; /* Added by Eclipse.py */
 
 public class GenericClassReferences {
   public static void main(String[] args) {

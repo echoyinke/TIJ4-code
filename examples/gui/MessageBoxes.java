@@ -1,4 +1,5 @@
 //: gui/MessageBoxes.java
+package gui; /* Added by Eclipse.py */
 // Demonstrates JOptionPane.
 import javax.swing.*;
 import java.awt.*;

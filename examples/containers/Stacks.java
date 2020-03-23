@@ -1,4 +1,5 @@
 //: containers/Stacks.java
+package containers; /* Added by Eclipse.py */
 // Demonstration of Stack Class.
 import java.util.*;
 import static net.mindview.util.Print.*;

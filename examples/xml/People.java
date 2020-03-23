@@ -1,4 +1,5 @@
 //: xml/People.java
+package xml; /* Added by Eclipse.py */
 // {Requires: nu.xom.Node; You must install
 // the XOM library from http://www.xom.nu }
 // {RunFirst: Person}

@@ -1,4 +1,5 @@
 //: concurrency/ReaderWriterList.java
+package concurrency; /* Added by Eclipse.py */
 import java.util.concurrent.*;
 import java.util.concurrent.locks.*;
 import java.util.*;

@@ -1,4 +1,5 @@
 //: concurrency/AttemptLocking.java
+package concurrency; /* Added by Eclipse.py */
 // Locks in the concurrent library allow you
 // to give up on trying to acquire a lock.
 import java.util.concurrent.*;

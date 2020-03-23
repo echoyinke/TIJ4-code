@@ -1,4 +1,5 @@
 //: strings/TestRegularExpression.java
+package strings; /* Added by Eclipse.py */
 // Allows you to easily try out regular expressions.
 // {Args: abcabcabcdefabc "abc+" "(abc)+" "(abc){2,}" }
 import java.util.regex.*;

@@ -1,4 +1,5 @@
 //: gui/SimpleMenus.java
+package gui; /* Added by Eclipse.py */
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;

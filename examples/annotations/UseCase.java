@@ -1,4 +1,5 @@
 //: annotations/UseCase.java
+package annotations; /* Added by Eclipse.py */
 import java.lang.annotation.*;
 
 @Target(ElementType.METHOD)

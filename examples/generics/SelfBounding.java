@@ -1,4 +1,5 @@
 //: generics/SelfBounding.java
+package generics; /* Added by Eclipse.py */
 
 class SelfBounded<T extends SelfBounded<T>> {
   T element;

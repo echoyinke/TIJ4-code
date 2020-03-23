@@ -1,4 +1,5 @@
 //: generics/BasicHolder.java
+package generics; /* Added by Eclipse.py */
 
 public class BasicHolder<T> {
   T element;

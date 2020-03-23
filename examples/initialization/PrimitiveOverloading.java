@@ -1,4 +1,5 @@
 //: initialization/PrimitiveOverloading.java
+package initialization; /* Added by Eclipse.py */
 // Promotion of primitives and overloading.
 import static net.mindview.util.Print.*;
 

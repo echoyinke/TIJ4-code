@@ -1,4 +1,5 @@
 //: concurrency/ListComparisons.java
+package concurrency; /* Added by Eclipse.py */
 // {Args: 1 10 10} (Fast verification check during build)
 // Rough comparison of thread-safe List performance.
 import java.util.concurrent.*;

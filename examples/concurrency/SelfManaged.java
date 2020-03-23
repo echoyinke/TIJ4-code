@@ -1,4 +1,5 @@
 //: concurrency/SelfManaged.java
+package concurrency; /* Added by Eclipse.py */
 // A Runnable containing its own driver Thread.
 
 public class SelfManaged implements Runnable {

@@ -1,4 +1,5 @@
 //: swt/SineWave.java
+package swt; /* Added by Eclipse.py */
 // SWT translation of Swing SineWave.java.
 import swt.util.*;
 import org.eclipse.swt.*;

@@ -1,4 +1,5 @@
 //: io/MyWorld.java
+package io; /* Added by Eclipse.py */
 import java.io.*;
 import java.util.*;
 import static net.mindview.util.Print.*;

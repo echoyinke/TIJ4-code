@@ -1,4 +1,5 @@
 //: gui/BorderLayout1.java
+package gui; /* Added by Eclipse.py */
 // Demonstrates BorderLayout.
 import javax.swing.*;
 import java.awt.*;

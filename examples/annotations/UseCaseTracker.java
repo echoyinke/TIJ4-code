@@ -1,4 +1,5 @@
 //: annotations/UseCaseTracker.java
+package annotations; /* Added by Eclipse.py */
 import java.lang.reflect.*;
 import java.util.*;
 

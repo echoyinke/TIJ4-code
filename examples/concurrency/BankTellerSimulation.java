@@ -1,4 +1,5 @@
 //: concurrency/BankTellerSimulation.java
+package concurrency; /* Added by Eclipse.py */
 // Using queues and multithreading.
 // {Args: 5}
 import java.util.concurrent.*;

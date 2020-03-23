@@ -1,4 +1,5 @@
 //: operators/AutoInc.java
+package operators; /* Added by Eclipse.py */
 // Demonstrates the ++ and -- operators.
 import static net.mindview.util.Print.*;
 

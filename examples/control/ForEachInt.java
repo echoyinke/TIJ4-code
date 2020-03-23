@@ -1,4 +1,5 @@
 //: control/ForEachInt.java
+package control; /* Added by Eclipse.py */
 import static net.mindview.util.Range.*;
 import static net.mindview.util.Print.*;
 

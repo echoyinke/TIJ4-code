@@ -1,4 +1,5 @@
 //: concurrency/Atomicity.java
+package concurrency; /* Added by Eclipse.py */
 // {Exec: javap -c Atomicity}
 
 public class Atomicity {

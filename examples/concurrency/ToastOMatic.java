@@ -1,4 +1,5 @@
 //: concurrency/ToastOMatic.java
+package concurrency; /* Added by Eclipse.py */
 // A toaster that uses queues.
 import java.util.concurrent.*;
 import java.util.*;

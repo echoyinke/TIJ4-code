@@ -1,4 +1,5 @@
 //: containers/QueueBehavior.java
+package containers; /* Added by Eclipse.py */
 // Compares the behavior of some of the queues
 import java.util.concurrent.*;
 import java.util.*;

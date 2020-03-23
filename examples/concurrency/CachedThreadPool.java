@@ -1,4 +1,5 @@
 //: concurrency/CachedThreadPool.java
+package concurrency; /* Added by Eclipse.py */
 import java.util.concurrent.*;
 
 public class CachedThreadPool {

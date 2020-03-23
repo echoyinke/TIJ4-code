@@ -1,4 +1,5 @@
 //: strings/SimpleFormat.java
+package strings; /* Added by Eclipse.py */
 
 public class SimpleFormat {
   public static void main(String[] args) {

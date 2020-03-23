@@ -1,4 +1,5 @@
 //: strings/ReFlags.java
+package strings; /* Added by Eclipse.py */
 import java.util.regex.*;
 
 public class ReFlags {

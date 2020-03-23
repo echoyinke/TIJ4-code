@@ -1,4 +1,5 @@
 //: concurrency/ActiveObjectDemo.java
+package concurrency; /* Added by Eclipse.py */
 // Can only pass constants, immutables, "disconnected
 // objects," or other active objects as arguments
 // to asynch methods.

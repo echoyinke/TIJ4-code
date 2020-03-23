@@ -1,4 +1,5 @@
 //: control/ForEachFloat.java
+package control; /* Added by Eclipse.py */
 import java.util.*;
 
 public class ForEachFloat {

@@ -1,4 +1,5 @@
 //: containers/ListSortSearch.java
+package containers; /* Added by Eclipse.py */
 // Sorting and searching Lists with Collections utilities.
 import java.util.*;
 import static net.mindview.util.Print.*;

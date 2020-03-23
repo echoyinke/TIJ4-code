@@ -1,4 +1,5 @@
 //: gui/TextPane.java
+package gui; /* Added by Eclipse.py */
 // The JTextPane control is a little editor.
 import javax.swing.*;
 import java.awt.*;

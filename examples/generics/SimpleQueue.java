@@ -1,4 +1,5 @@
 //: generics/SimpleQueue.java
+package generics; /* Added by Eclipse.py */
 // A different kind of container that is Iterable
 import java.util.*;
 

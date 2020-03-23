@@ -1,4 +1,5 @@
 //: typeinfo/BoundedClassReferences.java
+package typeinfo; /* Added by Eclipse.py */
 
 public class BoundedClassReferences {
   public static void main(String[] args) {

@@ -1,4 +1,5 @@
 //: initialization/Demotion.java
+package initialization; /* Added by Eclipse.py */
 // Demotion of primitives and overloading.
 import static net.mindview.util.Print.*;
 

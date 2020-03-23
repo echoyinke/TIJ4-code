@@ -1,4 +1,5 @@
 //: generics/GenericsAndReturnTypes.java
+package generics; /* Added by Eclipse.py */
 
 interface GenericGetter<T extends GenericGetter<T>> {
   T get();

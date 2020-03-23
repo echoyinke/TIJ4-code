@@ -1,4 +1,5 @@
 //: generics/CaptureConversion.java
+package generics; /* Added by Eclipse.py */
 
 public class CaptureConversion {
   static <T> void f1(Holder<T> holder) {

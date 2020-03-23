@@ -1,4 +1,5 @@
 //: initialization/ArrayClassObj.java
+package initialization; /* Added by Eclipse.py */
 // Creating an array of nonprimitive objects.
 import java.util.*;
 import static net.mindview.util.Print.*;

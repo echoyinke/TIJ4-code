@@ -1,4 +1,5 @@
 //: generics/Fill2.java
+package generics; /* Added by Eclipse.py */
 // Using adapters to simulate latent typing.
 // {main: Fill2Test}
 import generics.coffee.*;

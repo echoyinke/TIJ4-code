@@ -1,4 +1,5 @@
 //: gui/GridLayout1.java
+package gui; /* Added by Eclipse.py */
 // Demonstrates GridLayout.
 import javax.swing.*;
 import java.awt.*;

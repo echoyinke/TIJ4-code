@@ -1,4 +1,5 @@
 //: gui/Progress.java
+package gui; /* Added by Eclipse.py */
 // Using sliders, progress bars and progress monitors.
 import javax.swing.*;
 import javax.swing.border.*;

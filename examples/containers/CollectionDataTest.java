@@ -1,4 +1,5 @@
 //: containers/CollectionDataTest.java
+package containers; /* Added by Eclipse.py */
 import java.util.*;
 import net.mindview.util.*;
 

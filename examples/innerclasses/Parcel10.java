@@ -1,4 +1,5 @@
 //: innerclasses/Parcel10.java
+package innerclasses; /* Added by Eclipse.py */
 // Using "instance initialization" to perform
 // construction on an anonymous inner class.
 

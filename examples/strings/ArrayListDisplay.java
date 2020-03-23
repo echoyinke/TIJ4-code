@@ -1,4 +1,5 @@
 //: strings/ArrayListDisplay.java
+package strings; /* Added by Eclipse.py */
 import generics.coffee.*;
 import java.util.*;
 

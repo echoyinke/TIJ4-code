@@ -1,4 +1,5 @@
 //: generics/Holder.java
+package generics; /* Added by Eclipse.py */
 
 public class Holder<T> {
   private T value;

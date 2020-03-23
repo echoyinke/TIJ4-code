@@ -1,4 +1,5 @@
 //: gui/Button1.java
+package gui; /* Added by Eclipse.py */
 // Putting buttons on a Swing application.
 import javax.swing.*;
 import java.awt.*;

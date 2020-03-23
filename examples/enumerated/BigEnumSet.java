@@ -1,4 +1,5 @@
 //: enumerated/BigEnumSet.java
+package enumerated; /* Added by Eclipse.py */
 import java.util.*;
 
 public class BigEnumSet {

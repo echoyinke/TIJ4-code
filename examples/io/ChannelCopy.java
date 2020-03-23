@@ -1,4 +1,5 @@
 //: io/ChannelCopy.java
+package io; /* Added by Eclipse.py */
 // Copying a file using channels and buffers
 // {Args: ChannelCopy.java test.txt}
 import java.nio.*;

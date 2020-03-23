@@ -1,4 +1,5 @@
 //: operators/Casting.java
+package operators; /* Added by Eclipse.py */
 
 public class Casting {
   public static void main(String[] args) {

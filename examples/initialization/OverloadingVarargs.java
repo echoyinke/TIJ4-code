@@ -1,4 +1,5 @@
 //: initialization/OverloadingVarargs.java
+package initialization; /* Added by Eclipse.py */
 
 public class OverloadingVarargs {
   static void f(Character... args) {

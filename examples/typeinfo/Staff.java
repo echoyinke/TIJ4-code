@@ -1,4 +1,5 @@
 //: typeinfo/Staff.java
+package typeinfo; /* Added by Eclipse.py */
 import java.util.*;
 
 public class Staff extends ArrayList<Position> {

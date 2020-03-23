@@ -1,4 +1,5 @@
 //: operators/HelloDate.java
+package operators; /* Added by Eclipse.py */
 import java.util.*;
 import static net.mindview.util.Print.*;
 

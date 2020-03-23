@@ -1,4 +1,5 @@
 //: containers/References.java
+package containers; /* Added by Eclipse.py */
 // Demonstrates Reference objects
 import java.lang.ref.*;
 import java.util.*;

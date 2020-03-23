@@ -1,4 +1,5 @@
 //: exceptions/WithFinally.java
+package exceptions; /* Added by Eclipse.py */
 // Finally Guarantees cleanup.
 
 public class WithFinally {

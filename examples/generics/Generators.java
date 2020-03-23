@@ -1,4 +1,5 @@
 //: generics/Generators.java
+package generics; /* Added by Eclipse.py */
 // A utility to use with Generators.
 import generics.coffee.*;
 import java.util.*;

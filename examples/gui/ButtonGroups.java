@@ -1,4 +1,5 @@
 //: gui/ButtonGroups.java
+package gui; /* Added by Eclipse.py */
 // Uses reflection to create groups
 // of different types of AbstractButton.
 import javax.swing.*;

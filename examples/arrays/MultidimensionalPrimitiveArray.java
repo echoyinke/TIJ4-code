@@ -1,4 +1,5 @@
 //: arrays/MultidimensionalPrimitiveArray.java
+package arrays; /* Added by Eclipse.py */
 // Creating multidimensional arrays.
 import java.util.*;
 

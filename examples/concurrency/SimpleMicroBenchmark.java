@@ -1,4 +1,5 @@
 //: concurrency/SimpleMicroBenchmark.java
+package concurrency; /* Added by Eclipse.py */
 // The dangers of microbenchmarking.
 import java.util.concurrent.locks.*;
 

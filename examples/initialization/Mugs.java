@@ -1,4 +1,5 @@
 //: initialization/Mugs.java
+package initialization; /* Added by Eclipse.py */
 // Java "Instance Initialization."
 import static net.mindview.util.Print.*;
 

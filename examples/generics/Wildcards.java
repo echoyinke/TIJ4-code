@@ -1,4 +1,5 @@
 //: generics/Wildcards.java
+package generics; /* Added by Eclipse.py */
 // Exploring the meaning of wildcards.
 
 public class Wildcards {

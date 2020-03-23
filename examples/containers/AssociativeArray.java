@@ -1,4 +1,5 @@
 //: containers/AssociativeArray.java
+package containers; /* Added by Eclipse.py */
 // Associates keys with values.
 import static net.mindview.util.Print.*;
 

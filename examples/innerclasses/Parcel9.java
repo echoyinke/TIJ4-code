@@ -1,4 +1,5 @@
 //: innerclasses/Parcel9.java
+package innerclasses; /* Added by Eclipse.py */
 // An anonymous inner class that performs
 // initialization. A briefer version of Parcel5.java.
 

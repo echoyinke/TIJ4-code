@@ -1,4 +1,5 @@
 //: access/LibTest.java
+package access; /* Added by Eclipse.py */
 // Uses the library.
 import net.mindview.simple.*;
 

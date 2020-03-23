@@ -1,4 +1,5 @@
 //: holding/MultiIterableClass.java
+package holding; /* Added by Eclipse.py */
 // Adding several Adapter Methods.
 import java.util.*;
 

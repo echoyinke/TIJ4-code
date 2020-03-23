@@ -1,4 +1,5 @@
 //: interfaces/AdaptedRandomDoubles.java
+package interfaces; /* Added by Eclipse.py */
 // Creating an adapter with inheritance.
 import java.nio.*;
 import java.util.*;

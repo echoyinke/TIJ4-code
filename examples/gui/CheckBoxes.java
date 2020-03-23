@@ -1,4 +1,5 @@
 //: gui/CheckBoxes.java
+package gui; /* Added by Eclipse.py */
 // Using JCheckBoxes.
 import javax.swing.*;
 import java.awt.*;

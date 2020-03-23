@@ -1,4 +1,5 @@
 //: reusing/Detergent.java
+package reusing; /* Added by Eclipse.py */
 // Inheritance syntax & properties.
 import static net.mindview.util.Print.*;
 

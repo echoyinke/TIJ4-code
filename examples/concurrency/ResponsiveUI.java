@@ -1,4 +1,5 @@
 //: concurrency/ResponsiveUI.java
+package concurrency; /* Added by Eclipse.py */
 // User interface responsiveness.
 // {RunByHand}
 

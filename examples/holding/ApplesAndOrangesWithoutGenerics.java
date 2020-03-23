@@ -1,4 +1,5 @@
 //: holding/ApplesAndOrangesWithoutGenerics.java
+package holding; /* Added by Eclipse.py */
 // Simple container example (produces compiler warnings).
 // {ThrowsException}
 import java.util.*;

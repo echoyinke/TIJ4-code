@@ -1,4 +1,5 @@
 //: generics/IterableFibonacci.java
+package generics; /* Added by Eclipse.py */
 // Adapt the Fibonacci class to make it Iterable.
 import java.util.*;
 

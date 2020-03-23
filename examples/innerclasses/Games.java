@@ -1,4 +1,5 @@
 //: innerclasses/Games.java
+package innerclasses; /* Added by Eclipse.py */
 // Using anonymous inner classes with the Game framework.
 import static net.mindview.util.Print.*;
 

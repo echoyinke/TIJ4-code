@@ -1,4 +1,5 @@
 //: initialization/OrderOfInitialization.java
+package initialization; /* Added by Eclipse.py */
 // Demonstrates initialization order.
 import static net.mindview.util.Print.*;
 

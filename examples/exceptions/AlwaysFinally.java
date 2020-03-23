@@ -1,4 +1,5 @@
 //: exceptions/AlwaysFinally.java
+package exceptions; /* Added by Eclipse.py */
 // Finally is always executed.
 import static net.mindview.util.Print.*;
 

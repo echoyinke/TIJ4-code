@@ -1,4 +1,5 @@
 //: generics/UseList.java
+package generics; /* Added by Eclipse.py */
 // {CompileTimeError} (Won't compile)
 import java.util.*;
 

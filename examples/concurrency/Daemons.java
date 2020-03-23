@@ -1,4 +1,5 @@
 //: concurrency/Daemons.java
+package concurrency; /* Added by Eclipse.py */
 // Daemon threads spawn other daemon threads.
 import java.util.concurrent.*;
 import static net.mindview.util.Print.*;

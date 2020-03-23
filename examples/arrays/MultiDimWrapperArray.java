@@ -1,4 +1,5 @@
 //: arrays/MultiDimWrapperArray.java
+package arrays; /* Added by Eclipse.py */
 // Multidimensional arrays of "wrapper" objects.
 import java.util.*;
 

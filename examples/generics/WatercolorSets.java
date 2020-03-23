@@ -1,4 +1,5 @@
 //: generics/WatercolorSets.java
+package generics; /* Added by Eclipse.py */
 import generics.watercolors.*;
 import java.util.*;
 import static net.mindview.util.Print.*;

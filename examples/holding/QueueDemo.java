@@ -1,4 +1,5 @@
 //: holding/QueueDemo.java
+package holding; /* Added by Eclipse.py */
 // Upcasting to a Queue from a LinkedList.
 import java.util.*;
 

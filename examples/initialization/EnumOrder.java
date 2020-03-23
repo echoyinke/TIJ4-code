@@ -1,4 +1,5 @@
 //: initialization/EnumOrder.java
+package initialization; /* Added by Eclipse.py */
 
 public class EnumOrder {
   public static void main(String[] args) {

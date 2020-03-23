@@ -1,4 +1,5 @@
 //: arrays/GeneratorsTest.java
+package arrays; /* Added by Eclipse.py */
 import net.mindview.util.*;
 
 public class GeneratorsTest {

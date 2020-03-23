@@ -1,4 +1,5 @@
 //: reusing/Cartoon.java
+package reusing; /* Added by Eclipse.py */
 // Constructor calls during inheritance.
 import static net.mindview.util.Print.*;
 

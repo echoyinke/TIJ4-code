@@ -1,4 +1,5 @@
 //: gui/TicTacToe.java
+package gui; /* Added by Eclipse.py */
 // Dialog boxes and creating your own components.
 import javax.swing.*;
 import java.awt.*;

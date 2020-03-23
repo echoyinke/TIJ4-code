@@ -1,4 +1,5 @@
 //: typeinfo/SimpleProxyDemo.java
+package typeinfo; /* Added by Eclipse.py */
 import static net.mindview.util.Print.*;
 
 interface Interface {

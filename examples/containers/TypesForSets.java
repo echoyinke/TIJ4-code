@@ -1,4 +1,5 @@
 //: containers/TypesForSets.java
+package containers; /* Added by Eclipse.py */
 // Methods necessary to put your own type in a Set.
 import java.util.*;
 

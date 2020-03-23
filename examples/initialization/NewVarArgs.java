@@ -1,4 +1,5 @@
 //: initialization/NewVarArgs.java
+package initialization; /* Added by Eclipse.py */
 // Using array syntax to create variable argument lists.
 
 public class NewVarArgs {

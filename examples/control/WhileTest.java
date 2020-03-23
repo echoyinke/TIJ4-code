@@ -1,4 +1,5 @@
 //: control/WhileTest.java
+package control; /* Added by Eclipse.py */
 // Demonstrates the while loop.
 
 public class WhileTest {

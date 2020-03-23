@@ -1,4 +1,5 @@
 //: concurrency/CarBuilder.java
+package concurrency; /* Added by Eclipse.py */
 // A complex example of tasks working together.
 import java.util.concurrent.*;
 import java.util.*;

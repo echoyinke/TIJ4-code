@@ -1,4 +1,5 @@
 //: gui/LongRunningTask.java
+package gui; /* Added by Eclipse.py */
 // A badly designed program.
 import javax.swing.*;
 import java.awt.*;

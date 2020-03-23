@@ -1,4 +1,5 @@
 //: holding/IterableClass.java
+package holding; /* Added by Eclipse.py */
 // Anything Iterable works with foreach.
 import java.util.*;
 

@@ -1,4 +1,5 @@
 //: generics/Store.java
+package generics; /* Added by Eclipse.py */
 // Building up a complex model using generic containers.
 import java.util.*;
 import net.mindview.util.*;

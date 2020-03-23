@@ -1,4 +1,5 @@
 //: containers/FailFast.java
+package containers; /* Added by Eclipse.py */
 // Demonstrates the "fail-fast" behavior.
 import java.util.*;
 

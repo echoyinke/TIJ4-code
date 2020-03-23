@@ -1,4 +1,5 @@
 //: typeinfo/Shapes.java
+package typeinfo; /* Added by Eclipse.py */
 import java.util.*;
 
 abstract class Shape {

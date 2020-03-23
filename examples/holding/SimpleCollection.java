@@ -1,4 +1,5 @@
 //: holding/SimpleCollection.java
+package holding; /* Added by Eclipse.py */
 import java.util.*;
 
 public class SimpleCollection {

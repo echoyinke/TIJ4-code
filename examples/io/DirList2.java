@@ -1,4 +1,5 @@
 //: io/DirList2.java
+package io; /* Added by Eclipse.py */
 // Uses anonymous inner classes.
 // {Args: "D.*\.java"}
 import java.util.regex.*;

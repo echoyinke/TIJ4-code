@@ -1,4 +1,5 @@
 //: gui/Faces.java
+package gui; /* Added by Eclipse.py */
 // Icon behavior in JButtons.
 import javax.swing.*;
 import java.awt.*;

@@ -1,4 +1,5 @@
 //: innerclasses/GreenhouseControls.java
+package innerclasses; /* Added by Eclipse.py */
 // This produces a specific application of the
 // control system, all in a single class. Inner
 // classes allow you to encapsulate different

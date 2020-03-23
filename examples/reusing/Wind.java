@@ -1,4 +1,5 @@
 //: reusing/Wind.java
+package reusing; /* Added by Eclipse.py */
 // Inheritance & upcasting.
 
 class Instrument {

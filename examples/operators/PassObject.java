@@ -1,4 +1,5 @@
 //: operators/PassObject.java
+package operators; /* Added by Eclipse.py */
 // Passing objects to methods may not be
 // what you're used to.
 import static net.mindview.util.Print.*;

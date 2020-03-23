@@ -1,4 +1,5 @@
 //: strings/JGrep.java
+package strings; /* Added by Eclipse.py */
 // A very simple version of the "grep" program.
 // {Args: JGrep.java "\\b[Ssct]\\w+"}
 import java.util.regex.*;

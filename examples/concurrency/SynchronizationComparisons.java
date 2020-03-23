@@ -1,4 +1,5 @@
 //: concurrency/SynchronizationComparisons.java
+package concurrency; /* Added by Eclipse.py */
 // Comparing the performance of explicit Locks
 // and Atomics versus the synchronized keyword.
 import java.util.concurrent.*;

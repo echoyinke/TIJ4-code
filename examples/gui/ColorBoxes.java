@@ -1,4 +1,5 @@
 //: gui/ColorBoxes.java
+package gui; /* Added by Eclipse.py */
 // A visual demonstration of threading.
 import javax.swing.*;
 import java.awt.*;

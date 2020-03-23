@@ -1,4 +1,5 @@
 //: reusing/SprinklerSystem.java
+package reusing; /* Added by Eclipse.py */
 // Composition for code reuse.
 
 class WaterSource {

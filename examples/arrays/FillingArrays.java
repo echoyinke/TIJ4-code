@@ -1,4 +1,5 @@
 //: arrays/FillingArrays.java
+package arrays; /* Added by Eclipse.py */
 // Using Arrays.fill()
 import java.util.*;
 import static net.mindview.util.Print.*;

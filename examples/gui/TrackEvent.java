@@ -1,4 +1,5 @@
 //: gui/TrackEvent.java
+package gui; /* Added by Eclipse.py */
 // Show events as they happen.
 import javax.swing.*;
 import java.awt.*;

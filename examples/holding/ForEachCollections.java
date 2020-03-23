@@ -1,4 +1,5 @@
 //: holding/ForEachCollections.java
+package holding; /* Added by Eclipse.py */
 // All collections work with foreach.
 import java.util.*;
 

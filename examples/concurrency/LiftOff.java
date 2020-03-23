@@ -1,4 +1,5 @@
 //: concurrency/LiftOff.java
+package concurrency; /* Added by Eclipse.py */
 // Demonstration of the Runnable interface.
 
 public class LiftOff implements Runnable {

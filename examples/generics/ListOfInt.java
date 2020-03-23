@@ -1,4 +1,5 @@
 //: generics/ListOfInt.java
+package generics; /* Added by Eclipse.py */
 // Autoboxing compensates for the inability to use
 // primitives in generics.
 import java.util.*;

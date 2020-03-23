@@ -1,4 +1,5 @@
 //: typeinfo/WildcardClassReferences.java
+package typeinfo; /* Added by Eclipse.py */
 
 public class WildcardClassReferences {
   public static void main(String[] args) {

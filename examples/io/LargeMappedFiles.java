@@ -1,4 +1,5 @@
 //: io/LargeMappedFiles.java
+package io; /* Added by Eclipse.py */
 // Creating a very large file using mapping.
 // {RunByHand}
 import java.nio.*;

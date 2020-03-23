@@ -1,4 +1,5 @@
 //: initialization/SimpleConstructor2.java
+package initialization; /* Added by Eclipse.py */
 // Constructors can have arguments.
 
 class Rock2 {

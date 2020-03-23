@@ -1,4 +1,5 @@
 //: initialization/ArrayNew.java
+package initialization; /* Added by Eclipse.py */
 // Creating arrays with new.
 import java.util.*;
 import static net.mindview.util.Print.*;

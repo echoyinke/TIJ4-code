@@ -1,4 +1,5 @@
 //: holding/SimpleIteration.java
+package holding; /* Added by Eclipse.py */
 import typeinfo.pets.*;
 import java.util.*;
 

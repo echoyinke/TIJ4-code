@@ -1,4 +1,5 @@
 //: concurrency/AtomicityTest.java
+package concurrency; /* Added by Eclipse.py */
 import java.util.concurrent.*;
 
 public class AtomicityTest implements Runnable {

@@ -1,4 +1,5 @@
 //: strings/Rudolph.java
+package strings; /* Added by Eclipse.py */
 
 public class Rudolph {
   public static void main(String[] args) {

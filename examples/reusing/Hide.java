@@ -1,4 +1,5 @@
 //: reusing/Hide.java
+package reusing; /* Added by Eclipse.py */
 // Overloading a base-class method name in a derived
 // class does not hide the base-class versions.
 import static net.mindview.util.Print.*;

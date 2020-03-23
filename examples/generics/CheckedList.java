@@ -1,4 +1,5 @@
 //: generics/CheckedList.java
+package generics; /* Added by Eclipse.py */
 // Using Collection.checkedList().
 import typeinfo.pets.*;
 import java.util.*;

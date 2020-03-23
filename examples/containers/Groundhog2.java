@@ -1,4 +1,5 @@
 //: containers/Groundhog2.java
+package containers; /* Added by Eclipse.py */
 // A class that's used as a key in a HashMap
 // must override hashCode() and equals().
 

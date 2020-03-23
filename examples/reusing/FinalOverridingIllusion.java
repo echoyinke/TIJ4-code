@@ -1,4 +1,5 @@
 //: reusing/FinalOverridingIllusion.java
+package reusing; /* Added by Eclipse.py */
 // It only looks like you can override
 // a private or private final method.
 import static net.mindview.util.Print.*;

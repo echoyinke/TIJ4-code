@@ -1,4 +1,5 @@
 //: arrays/CopyingArrays.java
+package arrays; /* Added by Eclipse.py */
 // Using System.arraycopy()
 import java.util.*;
 import static net.mindview.util.Print.*;

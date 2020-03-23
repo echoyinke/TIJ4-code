@@ -1,4 +1,5 @@
 //: operators/MathOps.java
+package operators; /* Added by Eclipse.py */
 // Demonstrates the mathematical operators.
 import java.util.*;
 import static net.mindview.util.Print.*;

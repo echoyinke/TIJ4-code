@@ -1,4 +1,5 @@
 //: exceptions/ExceptionSilencer.java
+package exceptions; /* Added by Eclipse.py */
 
 public class ExceptionSilencer {
   public static void main(String[] args) {

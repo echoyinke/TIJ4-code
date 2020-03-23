@@ -1,4 +1,5 @@
 //: control/LabeledFor.java
+package control; /* Added by Eclipse.py */
 // For loops with "labeled break" and "labeled continue."
 import static net.mindview.util.Print.*;
 

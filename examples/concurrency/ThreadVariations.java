@@ -1,4 +1,5 @@
 //: concurrency/ThreadVariations.java
+package concurrency; /* Added by Eclipse.py */
 // Creating threads with inner classes.
 import java.util.concurrent.*;
 import static net.mindview.util.Print.*;

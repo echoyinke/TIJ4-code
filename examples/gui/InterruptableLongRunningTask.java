@@ -1,4 +1,5 @@
 //: gui/InterruptableLongRunningTask.java
+package gui; /* Added by Eclipse.py */
 // Long-running tasks in threads.
 import javax.swing.*;
 import java.awt.*;

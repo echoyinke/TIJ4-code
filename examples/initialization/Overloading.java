@@ -1,4 +1,5 @@
 //: initialization/Overloading.java
+package initialization; /* Added by Eclipse.py */
 // Demonstration of both constructor
 // and ordinary method overloading.
 import static net.mindview.util.Print.*;

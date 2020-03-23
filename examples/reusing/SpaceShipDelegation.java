@@ -1,4 +1,5 @@
 //: reusing/SpaceShipDelegation.java
+package reusing; /* Added by Eclipse.py */
 
 public class SpaceShipDelegation {
   private String name;

@@ -1,4 +1,5 @@
 //: holding/SortedSetOfInteger.java
+package holding; /* Added by Eclipse.py */
 import java.util.*;
 
 public class SortedSetOfInteger {

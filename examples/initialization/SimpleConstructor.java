@@ -1,4 +1,5 @@
 //: initialization/SimpleConstructor.java
+package initialization; /* Added by Eclipse.py */
 // Demonstration of a simple constructor.
 
 class Rock {

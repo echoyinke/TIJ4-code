@@ -1,4 +1,5 @@
 //: io/Logon.java
+package io; /* Added by Eclipse.py */
 // Demonstrates the "transient" keyword.
 import java.util.concurrent.*;
 import java.io.*;

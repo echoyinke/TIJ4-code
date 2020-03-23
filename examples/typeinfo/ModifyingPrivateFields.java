@@ -1,4 +1,5 @@
 //: typeinfo/ModifyingPrivateFields.java
+package typeinfo; /* Added by Eclipse.py */
 import java.lang.reflect.*;
 
 class WithPrivateFinalField {

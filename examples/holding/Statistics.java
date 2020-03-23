@@ -1,4 +1,5 @@
 //: holding/Statistics.java
+package holding; /* Added by Eclipse.py */
 // Simple demonstration of HashMap.
 import java.util.*;
 

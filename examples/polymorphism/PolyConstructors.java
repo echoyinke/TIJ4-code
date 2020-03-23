@@ -1,4 +1,5 @@
 //: polymorphism/PolyConstructors.java
+package polymorphism; /* Added by Eclipse.py */
 // Constructors and polymorphism
 // don't produce what you might expect.
 import static net.mindview.util.Print.*;

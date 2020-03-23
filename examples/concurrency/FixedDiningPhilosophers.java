@@ -1,4 +1,5 @@
 //: concurrency/FixedDiningPhilosophers.java
+package concurrency; /* Added by Eclipse.py */
 // Dining philosophers without deadlock.
 // {Args: 5 5 timeout}
 import java.util.concurrent.*;

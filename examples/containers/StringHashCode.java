@@ -1,4 +1,5 @@
 //: containers/StringHashCode.java
+package containers; /* Added by Eclipse.py */
 
 public class StringHashCode {
   public static void main(String[] args) {

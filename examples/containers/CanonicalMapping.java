@@ -1,4 +1,5 @@
 //: containers/CanonicalMapping.java
+package containers; /* Added by Eclipse.py */
 // Demonstrates WeakHashMap.
 import java.util.*;
 

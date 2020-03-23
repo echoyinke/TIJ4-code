@@ -1,4 +1,5 @@
 //: arrays/IceCream.java
+package arrays; /* Added by Eclipse.py */
 // Returning arrays from methods.
 import java.util.*;
 

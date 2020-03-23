@@ -1,4 +1,5 @@
 //: polymorphism/FieldAccess.java
+package polymorphism; /* Added by Eclipse.py */
 // Direct field access is determined at compile time.
 
 class Super {

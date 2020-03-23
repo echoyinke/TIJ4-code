@@ -1,4 +1,5 @@
 //: control/IfElse2.java
+package control; /* Added by Eclipse.py */
 import static net.mindview.util.Print.*;
 
 public class IfElse2 {

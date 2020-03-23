@@ -1,4 +1,5 @@
 //: enumerated/RandomTest.java
+package enumerated; /* Added by Eclipse.py */
 import net.mindview.util.*;
 
 enum Activity { SITTING, LYING, STANDING, HOPPING,

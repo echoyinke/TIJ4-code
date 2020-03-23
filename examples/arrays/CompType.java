@@ -1,4 +1,5 @@
 //: arrays/CompType.java
+package arrays; /* Added by Eclipse.py */
 // Implementing Comparable in a class.
 import java.util.*;
 import net.mindview.util.*;

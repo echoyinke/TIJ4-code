@@ -1,4 +1,5 @@
 //: concurrency/CloseResource.java
+package concurrency; /* Added by Eclipse.py */
 // Interrupting a blocked task by
 // closing the underlying resource.
 // {RunByHand}

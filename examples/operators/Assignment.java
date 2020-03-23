@@ -1,4 +1,5 @@
 //: operators/Assignment.java
+package operators; /* Added by Eclipse.py */
 // Assignment with objects is a bit tricky.
 import static net.mindview.util.Print.*;
 

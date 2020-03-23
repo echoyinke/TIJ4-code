@@ -1,4 +1,5 @@
 //: io/BufferToText.java
+package io; /* Added by Eclipse.py */
 // Converting text to and from ByteBuffers
 import java.nio.*;
 import java.nio.channels.*;

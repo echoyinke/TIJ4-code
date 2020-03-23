@@ -1,4 +1,5 @@
 //: innerclasses/Parcel3.java
+package innerclasses; /* Added by Eclipse.py */
 // Using .new to create instances of inner classes.
 
 public class Parcel3 {

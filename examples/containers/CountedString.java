@@ -1,4 +1,5 @@
 //: containers/CountedString.java
+package containers; /* Added by Eclipse.py */
 // Creating a good hashCode().
 import java.util.*;
 import static net.mindview.util.Print.*;

@@ -1,4 +1,5 @@
 //: innerclasses/GreenhouseController.java
+package innerclasses; /* Added by Eclipse.py */
 // Configure and execute the greenhouse system.
 // {Args: 5000}
 import innerclasses.controller.*;

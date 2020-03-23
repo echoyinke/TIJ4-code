@@ -1,4 +1,5 @@
 //: typeinfo/NullRobot.java
+package typeinfo; /* Added by Eclipse.py */
 // Using a dynamic proxy to create a Null Object.
 import java.lang.reflect.*;
 import java.util.*;

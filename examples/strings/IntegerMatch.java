@@ -1,4 +1,5 @@
 //: strings/IntegerMatch.java
+package strings; /* Added by Eclipse.py */
 
 public class IntegerMatch {
   public static void main(String[] args) {

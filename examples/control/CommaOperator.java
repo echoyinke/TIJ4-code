@@ -1,4 +1,5 @@
 //: control/CommaOperator.java
+package control; /* Added by Eclipse.py */
 
 public class CommaOperator {
   public static void main(String[] args) {

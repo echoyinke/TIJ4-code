@@ -2,7 +2,13 @@
 package reusing; /* Added by Eclipse.py */
 // Inheritance & upcasting.
 
+import org.jetbrains.annotations.Contract;
+
 class Instrument {
+  @Contract(pure = true)
+  public Instrument() {
+  }
+
   public void play() {}
   static void tune(Instrument i) {
     // ...

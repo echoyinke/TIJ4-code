@@ -20,7 +20,7 @@ abstract class Accumulator {
   protected volatile long value = 0;
   protected long duration = 0;
   protected String id = "error";
-  protected final static int SIZE = 100000;
+  protected final static int SIZE = 100000000;
   protected static int[] preLoaded = new int[SIZE];
   static {
     // Load the array of random numbers:
@@ -141,15 +141,15 @@ public class SynchronizationComparisons {
     print("============================");
     printf("%-12s : %13d\n", "Cycles", Accumulator.cycles);
     baseLine.timedTest();
-    synch.timedTest();
-    lock.timedTest();
-    atomic.timedTest();
-    Accumulator.report(synch, baseLine);
-    Accumulator.report(lock, baseLine);
-    Accumulator.report(atomic, baseLine);
-    Accumulator.report(synch, lock);
-    Accumulator.report(synch, atomic);
-    Accumulator.report(lock, atomic);
+//    synch.timedTest();
+//    lock.timedTest();
+//    atomic.timedTest();
+//    Accumulator.report(synch, baseLine);
+//    Accumulator.report(lock, baseLine);
+//    Accumulator.report(atomic, baseLine);
+//    Accumulator.report(synch, lock);
+//    Accumulator.report(synch, atomic);
+//    Accumulator.report(lock, atomic);
   }
   public static void main(String[] args) {
     int iterations = 5; // Default

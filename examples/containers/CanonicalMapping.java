@@ -35,13 +35,17 @@ public class CanonicalMapping {
     Key[] keys = new Key[size];
     WeakHashMap<Key,Value> map =
       new WeakHashMap<Key,Value>();
+    Key keyTmp;
     for(int i = 0; i < size; i++) {
       Key k = new Key(Integer.toString(i));
+      keyTmp = k;
       Value v = new Value(Integer.toString(i));
       if(i % 3 == 0)
         keys[i] = k; // Save as "real" references
       map.put(k, v);
     }
     System.gc();
+    int i=1;
+    System.out.println(map.size());
   }
 } /* (Execute to see output) *///:~

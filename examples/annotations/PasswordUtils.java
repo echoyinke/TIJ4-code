@@ -12,6 +12,8 @@ public class PasswordUtils {
   public String encryptPassword(String password) {
    return new StringBuilder(password).reverse().toString();
   }
+
+  @SimulatingNull(id=2, description = "123")
   @UseCase(id = 49, description =
   "New passwords can't equal previously used ones")
   public boolean checkForNewPassword(

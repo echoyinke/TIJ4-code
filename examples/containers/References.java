@@ -21,9 +21,10 @@ public class References {
   public static void checkQueue() {
     Reference<? extends VeryBig> inq = rq.poll();
     if(inq != null)
-      System.out.println("In queue: " + inq.get());
+      System.out.println("In queue: " + inq.get()+ inq);
   }
   public static void main(String[] args) {
+    String s1 = "2";
     int size = 10;
     // Or, choose size via the command line:
     if(args.length > 0)

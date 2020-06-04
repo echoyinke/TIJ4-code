@@ -25,6 +25,14 @@ public class SweetShop {
     } catch(ClassNotFoundException e) {
       print("Couldn't find Gum");
     }
+
+
+    print("After creating Candy");
+    try {
+      Class.forName("Candy");
+    } catch(ClassNotFoundException e) {
+      print("Couldn't find Gum");
+    }
     print("After Class.forName(\"Gum\")");
     new Cookie();
     print("After creating Cookie");

@@ -4,7 +4,7 @@ package concurrency; /* Added by Eclipse.py */
 
 public class BasicThreads {
   public static void main(String[] args) {
-    Thread t = new Thread(new LiftOff());
+    Thread t = new Thread(new LiftOff(), "test");
     t.start();
     System.out.println("Waiting for LiftOff");
   }

@@ -28,7 +28,7 @@ public class SimplePriorities implements Runnable {
   }
   public static void main(String[] args) {
     ExecutorService exec = Executors.newCachedThreadPool();
-    for(int i = 0; i < 5; i++)
+    for(int i = 0; i < 9; i++)
       exec.execute(
         new SimplePriorities(Thread.MIN_PRIORITY));
     exec.execute(

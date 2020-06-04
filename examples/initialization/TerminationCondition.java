@@ -5,6 +5,7 @@ package initialization; /* Added by Eclipse.py */
 
 class Book {
   boolean checkedOut = false;
+  static int test = 1;
   Book(boolean checkOut) {
     checkedOut = checkOut;
   }
@@ -21,11 +22,14 @@ class Book {
 
 public class TerminationCondition {
   public static void main(String[] args) {
+
     Book novel = new Book(true);
+    novel.test++;
     // Proper cleanup:
     novel.checkIn();
     // Drop the reference, forget to clean up:
-    new Book(true);
+    Book B = new Book(true);
+    System.out.println(B.test);
     // Force garbage collection & finalization:
     System.gc();
   }

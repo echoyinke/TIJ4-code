@@ -13,6 +13,9 @@ class Homer {
     print("doh(float)");
     return 1.0f;
   }
+  void doh(Milhouse m) {
+    print("doh(kokok)");
+  }
 }
 
 class Milhouse {}

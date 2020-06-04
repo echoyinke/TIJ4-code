@@ -3,10 +3,50 @@ package concurrency; /* Added by Eclipse.py */
 // Adding more threads.
 
 public class MoreBasicThreads {
+
+
+  public class yieldCpu implements Runnable {
+
+    public yieldCpu(int i) {
+      System.out.println(i+"constructed");
+    }
+
+    @Override
+    public void run() {
+      String  name = Thread.currentThread().getName();
+        System.out.println(name +"step a");
+        Thread.yield();
+      System.out.println(name+"step b");
+      Thread.yield();
+      System.out.println(name+"step c");
+      Thread.yield();
+      System.out.println(name+"finished");
+    }
+  }
+
+  public class  TestExt extends Thread {
+    @Override
+    public void run() {
+      String  name = Thread.currentThread().getName();
+      System.out.println(name +"step a");
+      Thread.yield();
+      System.out.println(name+"step b");
+      Thread.yield();
+      System.out.println(name+"step c");
+      Thread.yield();
+      System.out.println(name+"finished");
+    }
+  }
   public static void main(String[] args) {
-    for(int i = 0; i < 5; i++)
-      new Thread(new LiftOff()).start();
+    MoreBasicThreads moreBasicThreads = new MoreBasicThreads();
+    for(int i = 0; i < 5; i++) {
+      Thread thread = new Thread(moreBasicThreads.new TestExt(), "basic" + i);
+      thread.setDaemon(true);
+      thread.start();
+    }
+
     System.out.println("Waiting for LiftOff");
+
   }
 } /* Output: (Sample)
 Waiting for LiftOff

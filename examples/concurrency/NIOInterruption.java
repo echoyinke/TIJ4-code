@@ -37,10 +37,10 @@ public class NIOInterruption {
     Future<?> f = exec.submit(new NIOBlocked(sc1));
     exec.execute(new NIOBlocked(sc2));
     exec.shutdown();
-    TimeUnit.SECONDS.sleep(1);
+    TimeUnit.SECONDS.sleep(3);
     // Produce an interrupt via cancel:
     f.cancel(true);
-    TimeUnit.SECONDS.sleep(1);
+    TimeUnit.SECONDS.sleep(3);
     // Release the block by closing the channel:
     sc2.close();
   }

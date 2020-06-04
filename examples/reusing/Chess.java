@@ -4,6 +4,7 @@ package reusing; /* Added by Eclipse.py */
 import static net.mindview.util.Print.*;
 
 class Game {
+  int i;
   Game(int i) {
     print("Game constructor");
   }
@@ -23,6 +24,7 @@ public class Chess extends BoardGame {
   }
   public static void main(String[] args) {
     Chess x = new Chess();
+    int i=0;
   }
 } /* Output:
 Game constructor

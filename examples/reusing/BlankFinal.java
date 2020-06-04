@@ -2,8 +2,11 @@
 package reusing; /* Added by Eclipse.py */
 // "Blank" final fields.
 
+import org.jetbrains.annotations.Contract;
+
 class Poppet {
   private int i;
+  @Contract(pure = true)
   Poppet(int ii) { i = ii; }
 }
 
@@ -21,7 +24,8 @@ public class BlankFinal {
     p = new Poppet(x); // Initialize blank final reference
   }
   public static void main(String[] args) {
-    new BlankFinal();
-    new BlankFinal(47);
+    BlankFinal a = new BlankFinal();
+    BlankFinal b = new BlankFinal(47);
+    int i = 1;
   }
 } ///:~

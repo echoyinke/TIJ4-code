@@ -35,6 +35,10 @@ public class TextArea extends JFrame {
     add(c);
   }
   public static void main(String[] args) {
+
+    HashMap<Integer, String> map = new HashMap();
+    map.put(1, "a");
+    map.put(17, "b");
     run(new TextArea(), 475, 425);
   }
 } ///:~

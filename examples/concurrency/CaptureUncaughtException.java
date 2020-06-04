@@ -25,7 +25,7 @@ class HandlerThreadFactory implements ThreadFactory {
     Thread t = new Thread(r);
     System.out.println("created " + t);
     t.setUncaughtExceptionHandler(
-      new MyUncaughtExceptionHandler());
+      (thread, e)->{System.out.println("caught " + e);});
     System.out.println(
       "eh = " + t.getUncaughtExceptionHandler());
     return t;

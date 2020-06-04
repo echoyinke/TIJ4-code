@@ -20,6 +20,7 @@ class LiftOffRunner implements Runnable {
   public void run() {
     try {
       while(!Thread.interrupted()) {
+        System.out.println("block here");
         LiftOff rocket = rockets.take();
         rocket.run(); // Use this thread
       }

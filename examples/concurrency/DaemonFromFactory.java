@@ -9,7 +9,7 @@ public class DaemonFromFactory implements Runnable {
   public void run() {
     try {
       while(true) {
-        TimeUnit.MILLISECONDS.sleep(100);
+        TimeUnit.MILLISECONDS.sleep(10000);
         print(Thread.currentThread() + " " + this);
       }
     } catch(InterruptedException e) {

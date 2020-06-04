@@ -22,7 +22,9 @@ class IOBlocked implements Runnable {
   public void run() {
     try {
       print("Waiting for read():");
-      in.read();
+      int bytes = in.read();
+      System.out.println(bytes + "got from keyboard");
+
     } catch(IOException e) {
       if(Thread.currentThread().isInterrupted()) {
         print("Interrupted from blocked I/O");
